@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java8_note_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java8_note_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java8_note_3_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java8_note_3_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java8_note_4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java8_note_5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programming_tip_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_7_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_7_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/special_topic_4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/special_topic_5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/worked_example_1" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
