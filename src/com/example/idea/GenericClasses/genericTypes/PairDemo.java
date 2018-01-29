@@ -1,6 +1,7 @@
 package com.example.idea.GenericClasses.genericTypes;
 
 public class PairDemo {
+
     public static void main(String[] args) {
         String[] names = {"Tom", "Diana", "Harry"};
         Pair<String, Integer> result = firstContaining(names, "a");
@@ -8,7 +9,6 @@ public class PairDemo {
         System.out.println("Expected: Diana");
         System.out.println(result.getSecond());
         System.out.println("Expected: 1");
-
 
         int[] nums = {6, 27, 8, 19, 20};
         Pair<Integer, Integer> res = firstPrime(nums);

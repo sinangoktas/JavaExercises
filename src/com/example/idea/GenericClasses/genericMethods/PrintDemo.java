@@ -1,6 +1,7 @@
 package com.example.idea.GenericClasses.genericMethods;
 
 import java.awt.Color;
+import java.util.ArrayList;
 
 /** 
    This class demonstrates a generic method for printing arrays.
@@ -20,9 +21,14 @@ public class PrintDemo
    {
       for (int e : a)
       {
-         System.out.print(e + " ");
+         System.out.print(e*e + " ");
       }
       System.out.println();
+   }
+
+   public static <E> String print(ArrayList<E> a)
+   {
+     return a.toString();
    }
 
    public static void main(String[] args)
@@ -35,6 +41,11 @@ public class PrintDemo
 
       print(words); // Calls print<String>
       print(colors); // Calls print<Color>
-      print(squares); // Calls non-generic print      
+      print(squares); // Calls non-generic print
+
+      ArrayList<Integer> arr = new ArrayList<>();
+      arr.add(1); arr.add(3); arr.add(5);
+
+      System.out.println(print(arr)); // Calls print(ArrayList<E>)
    }
 }

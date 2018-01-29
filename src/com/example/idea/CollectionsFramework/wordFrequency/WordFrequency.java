@@ -12,7 +12,8 @@ public class WordFrequency {
             throws FileNotFoundException {
 
         Map<String, Integer> frequencies = new TreeMap<>();
-        Scanner in = new Scanner(new File("/home/cyn/IdeaProjects/JavaExercises/src/com/example/idea/CollectionsFramework/worked_example_1/alice30.txt"));
+        Map<String, Integer> mostFrequent = new TreeMap<>();
+        Scanner in = new Scanner(new File("/home/cyn/IdeaProjects/JavaExercises/src/com/example/idea/CollectionsFramework/wordFrequency/alice30.txt"));
         while (in.hasNext()) {
             String word = clean(in.next());
 
@@ -28,6 +29,20 @@ public class WordFrequency {
 
             frequencies.put(word, count);
 
+
+            // Find the most frequent 10 words
+            mostFrequent.put(word, count);
+
+            if(mostFrequent.size() > 10) {
+                for (String key : mostFrequent.keySet()) {
+                    if(mostFrequent.get(key) < count) {
+                        count = mostFrequent.get(key);
+                        word = key;
+                    }
+                }
+                mostFrequent.remove(word, count);
+            }
+
             /*
             This code does the same with 20-29
             frequencies.merge(word, 1, (oldValue, value) -> oldValue + value);
@@ -38,6 +53,12 @@ public class WordFrequency {
         // Print all words and counts
         for (String key : frequencies.keySet()) {
             System.out.printf("%-20s%10d\n", key, frequencies.get(key));
+        }
+
+        System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
+
+        for (String key : mostFrequent.keySet()) {
+            System.out.printf("%-20s%10d\n", key, mostFrequent.get(key));
         }
     }
 
