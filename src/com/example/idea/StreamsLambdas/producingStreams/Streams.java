@@ -18,7 +18,7 @@ public class Streams
       Stream<Integer> digits = Stream.of(3, 1, 4, 1, 5, 9);
       show("A stream of individually specified digits", digits);
 
-      Integer[] digitArray = { 3, 1, 4, 1, 5, 9 };
+      Integer[] digitArray = { 3, 1, 4, 1, 5, 9, 6};
       digits = Stream.of(digitArray);
       show("A stream of digits from an array", digits);
 
