@@ -1,5 +1,6 @@
-package com.example.idea.StreamsLambdas.section_2;
+package com.example.idea.StreamsLambdas.producingStreams;
 
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -7,7 +8,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;
 import java.util.stream.Collectors;
-
 public class Streams
 {
    public static void main(String[] args) throws IOException
@@ -29,7 +29,7 @@ public class Streams
       words = wordList.stream();
       show("A stream of words from a list", words);
       
-      try (Stream<String> lines = Files.lines(Paths.get("../countries.txt")))
+      try (Stream<String> lines = Files.lines(Paths.get("countries.txt")))
       {
          show("A stream of lines from a file", lines);
       }
