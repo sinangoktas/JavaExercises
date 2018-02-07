@@ -1,4 +1,4 @@
-package com.example.idea.TDD.JUnit;
+package com.example.idea.TDD.Introduction;
 
 public class MyProgram {
 }

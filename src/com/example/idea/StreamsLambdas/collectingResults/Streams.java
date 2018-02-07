@@ -1,4 +1,4 @@
-package com.example.idea.StreamsLambdas.section_3;
+package com.example.idea.StreamsLambdas.collectingResults;
 
 import java.util.Arrays;
 import java.util.List;

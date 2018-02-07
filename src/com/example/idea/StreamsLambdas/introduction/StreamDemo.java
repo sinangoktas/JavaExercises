@@ -1,4 +1,4 @@
-package com.example.idea.StreamsLambdas.section_1;
+package com.example.idea.StreamsLambdas.introduction;
 
 import java.io.File;
 import java.io.IOException;
@@ -10,11 +10,15 @@ public class StreamDemo
 {
    public static void main(String[] args) throws IOException
    {
-      Scanner in = new Scanner(new File("../countries.txt"));
-         // This file contains one country name per line
+      Scanner in = new Scanner(new File("/home/cyn/IdeaProjects/JavaExercises/countries.txt"));
+      // This file contains one country name per line
       List<String> wordList = new ArrayList<>();
-      while (in.hasNextLine()) { wordList.add(in.nextLine()); }
-         // Now wordList is a list of country names
+      int numberOfCountries = 0;
+      while(in.hasNext()) {
+         wordList.add(in.next());
+         numberOfCountries ++;
+      }
+      System.out.println("Number of countries is: " + numberOfCountries);
 
       // Traditional loop for counting the long words
       long count = 0;

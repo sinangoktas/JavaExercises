@@ -16,8 +16,8 @@ public class SpellCheck
    {
       // Read the dictionary and the document
 
-      Set<String> dictionaryWords = readWords("/home/cyn/IdeaProjects/JavaExercises/src/com/example/idea/CollectionsFramework/sets/words");
-      Set<String> documentWords = readWords("/home/cyn/IdeaProjects/JavaExercises/src/com/example/idea/CollectionsFramework/sets/alice30.txt");
+      Set<String> dictionaryWords = readWords("/home/cyn/IdeaProjects/JavaExercises/words.txt");
+      Set<String> documentWords = readWords("/home/cyn/IdeaProjects/JavaExercises/alice30.txt");
 
       // Print all words that are in the document but not the dictionary
       int count = 0;

@@ -1,4 +1,4 @@
-package com.example.idea.TDD.JUnit;
+package com.example.idea.TDD.Introduction;
 
 import org.junit.After;
 import org.junit.Before;

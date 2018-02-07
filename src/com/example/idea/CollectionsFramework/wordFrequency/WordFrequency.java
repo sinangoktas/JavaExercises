@@ -13,7 +13,7 @@ public class WordFrequency {
 
         Map<String, Integer> frequencies = new TreeMap<>();
         Map<String, Integer> mostFrequent = new TreeMap<>();
-        Scanner in = new Scanner(new File("/home/cyn/IdeaProjects/JavaExercises/src/com/example/idea/CollectionsFramework/wordFrequency/alice30.txt"));
+        Scanner in = new Scanner(new File("/home/cyn/IdeaProjects/JavaExercises/alice30.txt"));
         while (in.hasNext()) {
             String word = clean(in.next());
 
