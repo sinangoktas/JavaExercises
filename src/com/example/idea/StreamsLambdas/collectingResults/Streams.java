@@ -39,6 +39,5 @@ public class Streams
       System.out.println("Joining with commas: " + result4);
 
 
-      System.out.println("Git Integration Test!!");
    }
 }
