@@ -1,4 +1,4 @@
-package com.example.idea.StreamsLambdas.section_4;
+package com.example.idea.StreamsLambdas.transformingStreams;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -11,7 +11,7 @@ public class StreamDemo
 {
    public static void main(String[] args) throws IOException
    {
-      try (Stream<String> lines = Files.lines(Paths.get("../countries.txt"))) 
+      try (Stream<String> lines = Files.lines(Paths.get("countries.txt")))
       { // Read the lines
          List<String> result = lines
             .filter(w -> w.length() > 10) // Keep only long words

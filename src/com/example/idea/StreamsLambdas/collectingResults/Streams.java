@@ -35,8 +35,10 @@ public class Streams
       stream = Stream
          .of("Mary", "had", "a", "little", "lamb")
          .filter(w -> w.contains("a"));
+
       String result4 = stream.collect(Collectors.joining(", "));
       System.out.println("Joining with commas: " + result4);
+
 
 
    }
