@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/PersonTest.java" line="82" />
-  </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="3c5ce73e-3481-4656-b998-0858d6eb9dc3" name="Default" comment="update">
       <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_2/CaesarCipher.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_2/CaesarEncryptor.java" />
@@ -106,6 +104,21 @@
       <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_3/HigherOrderFunctions.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_4/ComparatorDemo.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_4/Country.java" afterPath="" />
+=======
+    <list default="true" id="2b9175d9-05a0-4a82-bfc4-9a765f092c69" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaExercises/Infinite.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/lambdaExpressions/Streams.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/transformingStreams/Streams.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/lambdaExpressions/Streams.java" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/collectingResults/Streams.class" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/collectingResults/Streams.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/transformingStreams/StreamDemo.class" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/transformingStreams/StreamDemo.class" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/App.java" afterPath="$PROJECT_DIR$/src/com/example/idea/App.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/collectingResults/Streams.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/collectingResults/Streams.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/section_5/Streams.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_1/Infinite.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_1/Infinite.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/StreamDemo.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/StreamDemo.java" />
+>>>>>>> 434e14551c482a7b0885a79768f8686c9764eb3b
       <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/Streams.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/Streams.java" />
       <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/worked_example_1/Words.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/worked_example/Words.java" />
       <change beforePath="$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/Person.java" afterPath="$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/Person.java" />
@@ -118,6 +131,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
     <option name="GROUP_DATA_SOURCES" value="true" />
@@ -257,6 +271,8 @@
       <dir>$PROJECT_DIR$/src/com/example/idea/NetworkProgramming</dir>
     </dirStrings>
   </component>
+=======
+>>>>>>> 434e14551c482a7b0885a79768f8686c9764eb3b
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -265,6 +281,7 @@
       <projects_view />
     </option>
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -322,19 +339,28 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> 434e14551c482a7b0885a79768f8686c9764eb3b
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1" />
     <option name="y" value="-11" />
     <option name="width" value="1442" />
     <option name="height" value="912" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="791" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+>>>>>>> 434e14551c482a7b0885a79768f8686c9764eb3b
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -352,7 +378,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -369,42 +394,39 @@
               <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="idea" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="Advanced_Input_Output" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="StreamsLambdas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="idea" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamsLambdas" type="462c0819:PsiDirectoryNode" />
+              <item name="lambdaExpressions" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 434e14551c482a7b0885a79768f8686c9764eb3b
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JSON&#10;JAVA" />
     <property name="SearchEverywhereHistoryKey" value="console&#9;PSI&#9;JAVA://java.io.Console&#10;plug&#9;ACTION&#9;WelcomeScreen.Plugins" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -448,6 +470,8 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+=======
+>>>>>>> 434e14551c482a7b0885a79768f8686c9764eb3b
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -461,6 +485,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.ExceptionThrower">
     <configuration name="ColorViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -565,34 +590,42 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.example.idea.InputOutput.special_topic_1.WebPageReader" />
+=======
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+>>>>>>> 434e14551c482a7b0885a79768f8686c9764eb3b
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaExercises" />
+      <module name="" />
       <envs />
     </configuration>
-    <configuration name="PersonTest.test_6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.idea.ConcurrentProgramming.TDD.JUnit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="JavaExercises" />
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.example.idea.ConcurrentProgramming.TDD.JUnit" />
-      <option name="MAIN_CLASS_NAME" value="com.example.idea.ConcurrentProgramming.TDD.JUnit.PersonTest" />
-      <option name="METHOD_NAME" value="test_6" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -601,36 +634,47 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="Sub" type="Java Scratch" factoryName="Java Scratch" nameIsGenerated="true">
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="230793" />
-      <option name="MAIN_CLASS_NAME" value="Sub" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <envs />
-      <method />
+      <properties />
+      <listeners />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+<<<<<<< HEAD
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Java Scratch.Sub" />
       <item index="1" class="java.lang.String" itemvalue="Application.ColorViewer" />
@@ -648,6 +692,8 @@
         <item index="4" class="java.lang.String" itemvalue="Application.ColorViewer" />
       </list>
     </recent_temporary>
+=======
+>>>>>>> 434e14551c482a7b0885a79768f8686c9764eb3b
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -662,10 +708,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3c5ce73e-3481-4656-b998-0858d6eb9dc3" name="Default" comment="" />
-      <created>1510527788240</created>
+      <changelist id="2b9175d9-05a0-4a82-bfc4-9a765f092c69" name="Default" comment="" />
+      <created>1519638637587</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1510527788240</updated>
       <workItem from="1510527791840" duration="4074000" />
       <workItem from="1510533857574" duration="8000" />
@@ -779,43 +826,15 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1517257889832</updated>
+=======
+      <updated>1519638637587</updated>
+      <workItem from="1519638638666" duration="38000" />
+>>>>>>> 434e14551c482a7b0885a79768f8686c9764eb3b
     </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="RecursionTest_fib - 2018.01.15 at 20h 32m 14s.xml">
-      <configuration name="RecursionTest.fib" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RecursionTest_fib - 2018.01.15 at 20h 32m 18s.xml">
-      <configuration name="RecursionTest.fib" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RecursionTest_fib - 2018.01.15 at 20h 32m 24s.xml">
-      <configuration name="RecursionTest.fib" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RecursionTest_fib - 2018.01.15 at 20h 33m 16s.xml">
-      <configuration name="RecursionTest.fib" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RecursionTest_fib - 2018.01.15 at 20h 33m 21s.xml">
-      <configuration name="RecursionTest.fib" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TemplateTest_renderMethodTrowsExceptionWithNullTemplateText - 2018.01.12 at 01h 42m 10s.xml">
-      <configuration name="TemplateTest.renderMethodTrowsExceptionWithNullTemplateText" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TemplateTest_renderMethodTrowsExceptionWithNullTemplateText - 2018.01.12 at 01h 43m 52s.xml">
-      <configuration name="TemplateTest.renderMethodTrowsExceptionWithNullTemplateText" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TemplateTest_renderMethodTrowsExceptionWithNullTemplateText - 2018.01.12 at 01h 44m 43s.xml">
-      <configuration name="TemplateTest.renderMethodTrowsExceptionWithNullTemplateText" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TemplateTest_renderMethodTrowsExceptionWithNullTemplateText - 2018.01.12 at 01h 46m 12s.xml">
-      <configuration name="TemplateTest.renderMethodTrowsExceptionWithNullTemplateText" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TemplateTest_renderMethodTrowsExceptionWithNullTemplateText - 2018.01.12 at 01h 46m 27s.xml">
-      <configuration name="TemplateTest.renderMethodTrowsExceptionWithNullTemplateText" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="379302000" />
   </component>
   <component name="TodoView">
@@ -862,33 +881,40 @@
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25692308" sideWeight="0.51359516" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="38000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="791" y="-1080" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276923" sideWeight="0.49697885" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276923" sideWeight="0.49697885" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+>>>>>>> 434e14551c482a7b0885a79768f8686c9764eb3b
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25692308" sideWeight="0.48640484" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276923" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2854985" sideWeight="0.49275362" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276923" sideWeight="0.49697885" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36782476" sideWeight="0.5072464" order="5" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -896,11 +922,8 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
-  </component>
   <component name="XDebuggerManager">
+<<<<<<< HEAD
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
@@ -1406,4 +1429,9 @@
       </state>
     </states>
   </component>
+=======
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+>>>>>>> 434e14551c482a7b0885a79768f8686c9764eb3b
 </project>
