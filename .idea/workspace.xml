@@ -5,18 +5,110 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c5ce73e-3481-4656-b998-0858d6eb9dc3" name="Default" comment="update">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_2/CaesarCipher.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_2/CaesarEncryptor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_3/BankData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_3/BankSimulator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_3/bank.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_4/Bank.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_4/BankAccount.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_4/SerialDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_4/bank.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_5_1/PathDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_5_2/CreatingAndDeleting.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_5_3/UsefulFileOperations.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_5_4/VisitingDirectories.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/choices/FontFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/choices/FontViewer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/layoutManagement_1/CalculatorFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/layoutManagement_1/CalculatorViewer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/layoutManagement_2/FilledFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/layoutManagement_2/FilledFrameViewer2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/menus/FontFrame2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/menus/FontViewer2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/swing/ColorFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/swing/ColorViewer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/textInput_1/InvestmentFrame2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/textInput_1/InvestmentViewer2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/textInput_2/InvestmentFrame3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/textInput_2/InvestmentViewer3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/worked_example/CalculatorFrame.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/GUI/worked_example/CalculatorViewer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/utility/StreamPrinter.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/Infinite.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/App.class" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/App.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/collectingResults/Streams.class" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/collectingResults/Streams.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/section_4/StreamDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/section_4/Streams.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/special_topic_1/Infinite.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/javaEarlyObjs/special_topic_1/WebPageReader.class" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/javaEarlyObjs/special_topic_1/WebPageReader.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/common_error_3/Horror.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/introduction/StreamDemo.class" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/introduction/StreamDemo.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/lambdaExpressions/Streams.class" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/lambdaExpressions/Streams.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/producingStreams/Streams.class" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/producingStreams/Streams.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/section_10/CommonAlgorithmsRevisited.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/section_6/OptionalDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/section_7/TerminalOperations.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/section_8/PrimitiveStreams.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/section_9/Country.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/section_9/GroupDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/section_9/GroupDemo2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/special_topic_2/BankAccount.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/special_topic_2/MethodReferences.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/special_topic_3/HigherOrderFunctions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/special_topic_4/ComparatorDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/special_topic_4/Country.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/transformingStreams/Streams.class" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/transformingStreams/Streams.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/Person.class" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/Person.class" />
       <change beforePath="$PROJECT_DIR$/src/com/example/idea/App.java" afterPath="$PROJECT_DIR$/src/com/example/idea/App.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/collectingResults/Streams.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/collectingResults/Streams.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/section_5/Streams.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/lambdaExpressions/Streams.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_1/Infinite.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_1/Infinite.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/StreamDemo.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/StreamDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_1/BankAccount.java" afterPath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/throwingExceptions/BankAccount.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_1/ThrowingExceptions.java" afterPath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/throwingExceptions/ThrowingExceptions.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_2/CatchingExceptions.java" afterPath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/catchingExceptions/CatchingExceptions.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_2/test1.txt" afterPath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/closingResources/test1.txt" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_3/CheckedExceptions.java" afterPath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/checkedExceptions/CheckedExceptions.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_4/ClosingResources.java" afterPath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/closingResources/ClosingResources.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_4/output.txt" afterPath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/closingResources/output.txt" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_4/test1.txt" afterPath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/catchingExceptions/test1.txt" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_5/BankAccount.java" afterPath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/designExceptions/BankAccount.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_5/CustomExceptions.java" afterPath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/designExceptions/CustomExceptions.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_5/InsufficientFundsException.java" afterPath="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/designExceptions/InsufficientFundsException.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/caseStudy/CountryValue.java" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/caseStudy/CountryValue.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/caseStudy/PopulationDensity.java" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/caseStudy/PopulationDensity.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/caseStudy/world_pop_density.txt" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/caseStudy/world_pop_density.txt" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/caseStudy/worldarea.txt" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/caseStudy/worldarea.txt" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/caseStudy/worldpop.txt" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/caseStudy/worldpop.txt" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/handlingInputErrors/BadDataException.java" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/handlingInputErrors/BadDataException.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/handlingInputErrors/DataAnalyzer.java" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/handlingInputErrors/DataAnalyzer.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/handlingInputErrors/DataSetReader.java" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/handlingInputErrors/DataSetReader.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/handlingInputErrors/bad1.dat" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/handlingInputErrors/bad1.dat" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/handlingInputErrors/bad2.dat" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/handlingInputErrors/bad2.dat" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/handlingInputErrors/bad3.dat" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/handlingInputErrors/bad3.dat" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/handlingInputErrors/bad4.dat" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/handlingInputErrors/bad4.dat" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/handlingInputErrors/good.dat" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/handlingInputErrors/good.dat" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/readingWriting/Total.java" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/readingWriting/Total.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/special_topic_1/WebPageReader.java" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/special_topic_1/WebPageReader.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/special_topic_2/FileChooserDemo.java" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/special_topic_2/FileChooserDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/testInputOutput/Items.java" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/testInputOutput/Items.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/testInputOutput/input.txt" afterPath="$PROJECT_DIR$/src/com/example/idea/InputOutput/testInputOutput/input.txt" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/common_error_3/Horror.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/common_error/Horror.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/how_to_1/Countries.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/practice_exercise/Countries.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/how_to_1/Country.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/practice_exercise/Country.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/introduction/StreamDemo.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/introduction/StreamDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/lambdaExpressions/Streams.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/lambdaExpressions/Streams.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/producingStreams/Streams.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/producingStreams/Streams.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/section_10/CommonAlgorithmsRevisited.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/commonAlgorithms/CommonAlgorithmsRevisited.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/section_6/OptionalDemo.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/optionalType/OptionalDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/section_7/TerminalOperations.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/terminalOps/TerminalOperations.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/section_8/PrimitiveStreams.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/primitiveTypeStreams/PrimitiveStreams.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/section_9/Country.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/groupingResults/Country.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/section_9/GroupDemo.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/groupingResults/GroupDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/section_9/GroupDemo2.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/groupingResults/GroupDemo2.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_1/Infinite.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_2/BankAccount.java" afterPath="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_3/BankAccount.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_2/MethodReferences.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_3/HigherOrderFunctions.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_4/ComparatorDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_4/Country.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/Streams.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/Streams.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/worked_example_1/Words.java" afterPath="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/worked_example/Words.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/Person.java" afterPath="$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/Person.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,26 +135,102 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/idea/App.java">
+      <file leaf-file-name="FilledFrameViewer2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/GUI/layoutManagement_2/FilledFrameViewer2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Streams.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/lambdaExpressions/Streams.java">
+      <file leaf-file-name="WebPageReader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/InputOutput/special_topic_1/WebPageReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="425">
+              <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BankAccount.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/throwingExceptions/BankAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThrowingExceptions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/throwingExceptions/ThrowingExceptions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ioIntro.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/InputOutput/ioIntro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreatingAndDeleting.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_5_2/CreatingAndDeleting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsefulFileOperations.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_5_3/UsefulFileOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="30" column="30" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="30" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exceptions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/Exceptions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExceptionThrower.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/ExceptionThrower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClosingResources.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/closingResources/ClosingResources.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,8 +243,8 @@
         <option value="JavaScript File" />
         <option value="JUnit4 Test Class" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="Singleton" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -100,21 +268,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/section_6_3/ExpressionCalculator.java" />
-        <option value="$PROJECT_DIR$/test/com/example/idea/CollectionsFramework/section_1/CollectionsDemoTest.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/section_1/CollectionsDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/section_2/ListDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/iteratingList/ListDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/collectionsIntro/CollectionsDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/section_5/PriorityQueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/worked_example_1/WordFrequency.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/hashCodeExample/HashCodePrinter.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/hashCodeExample/Country.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/stacksQueues/StackDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/stacksQueues/QueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/stacksQueues/StackQueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/stacksQueues/PriorityQueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/stacksQueues/WorkOrder.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/stacksQueues/ParenChecker.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/stacksQueues/Calculator.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/Recursion/DemoRecursion.java" />
@@ -130,7 +283,6 @@
         <option value="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/caseStudy/PopulationDensity.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/common_error_3/Horror.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/section_6/OptionalDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_3/HigherOrderFunctions.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/maps/MapDemo.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/AllTestsSuite.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/Interfaces/AbstractVsInterface/Example1.java" />
@@ -142,15 +294,31 @@
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/wordFrequency/WordFrequency.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/sets/SpellCheck.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/introduction/StreamDemo.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/producingStreams/StreamsE.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/StreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_1/Infinite.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_2/MethodReferences.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_3/HigherOrderFunctions.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_4/ComparatorDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/introduction/StreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/utility/StreamPrinter.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/producingStreams/Streams.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/collectingResults/Streams.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_1/Infinite.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/Streams.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/StreamDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/App.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/lambdaExpressions/Streams.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/optionalType/OptionalDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/terminalOps/TerminalOperations.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/Streams.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/primitiveTypeStreams/PrimitiveStreams.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/common_error/Horror.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/App.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/groupingResults/GroupDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/commonAlgorithms/CommonAlgorithmsRevisited.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/GUI/section_1_2/CalculatorFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/GUI/swing/ColorViewer.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/special_topic_1/WebPageReader.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/closingResources/ClosingResources.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_5_2/CreatingAndDeleting.java" />
       </list>
     </option>
   </component>
@@ -161,10 +329,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="164" />
-    <option name="y" value="-4" />
-    <option name="width" value="1024" />
-    <option name="height" value="772" />
+    <option name="x" value="-1" />
+    <option name="y" value="-11" />
+    <option name="width" value="1442" />
+    <option name="height" value="912" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -225,17 +393,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="idea" type="462c0819:PsiDirectoryNode" />
-              <item name="StreamsLambdas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="idea" type="462c0819:PsiDirectoryNode" />
-              <item name="StreamsLambdas" type="462c0819:PsiDirectoryNode" />
-              <item name="lambdaExpressions" type="462c0819:PsiDirectoryNode" />
+              <item name="Advanced_Input_Output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -248,7 +406,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JSON&#10;JAVA" />
-    <property name="SearchEverywhereHistoryKey" value="plug&#9;ACTION&#9;WelcomeScreen.Plugins" />
+    <property name="SearchEverywhereHistoryKey" value="console&#9;PSI&#9;JAVA://java.io.Console&#10;plug&#9;ACTION&#9;WelcomeScreen.Plugins" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -257,8 +415,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test_DVLA" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.idea.TDD.JUnitDemo.main" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.example.idea.CollectionsFramework.section_1" />
       <recent name="com.example.idea.Recursion" />
@@ -271,23 +433,20 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.example.idea" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output" />
+      <recent name="$PROJECT_DIR$/src/com/example/idea/GUI" />
       <recent name="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/introduction" />
       <recent name="$PROJECT_DIR$/src/com/example/idea/Interfaces/AbstractVsInterface" />
       <recent name="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas" />
-      <recent name="$PROJECT_DIR$/src/com/example/idea/ExceptionHandling" />
-      <recent name="$PROJECT_DIR$/src/com/example/idea/GenericClasses" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.idea.StreamsLambdas.producingStreams" />
       <recent name="com.example.idea.CollectionsFramework.stacksQueues" />
       <recent name="com.example.idea.ConcurrentProgramming.demo10_LowLevelSynchronization" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.example.idea.TDD.JUnitDemo.main" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -302,10 +461,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Streams">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.example.idea.App" />
+  <component name="RunManager" selected="Application.ExceptionThrower">
+    <configuration name="ColorViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.idea.GUI.swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.example.idea.GUI.swing.ColorViewer" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -317,9 +481,52 @@
       <module name="JavaExercises" />
       <envs />
     </configuration>
-    <configuration name="Infinite (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Infinite" />
+    <configuration name="ExceptionThrower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.idea.ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.example.idea.ExceptionHandling.ExceptionThrower" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaExercises" />
+      <envs />
+    </configuration>
+    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.idea.ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.example.idea.ExceptionHandling.Exceptions" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaExercises" />
+      <envs />
+    </configuration>
+    <configuration name="FontViewer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.idea.GUI.menus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.example.idea.GUI.menus.FontViewer2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -350,52 +557,14 @@
       <module name="JavaExercises" />
       <envs />
     </configuration>
-    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="WebPageReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.example.idea.StreamsLambdas.transformingStreams.*" />
+          <option name="PATTERN" value="com.example.idea.InputOutput.special_topic_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.example.idea.StreamsLambdas.transformingStreams.StreamDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaExercises" />
-      <envs />
-    </configuration>
-    <configuration name="Streams (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.idea.StreamsLambdas.transformingStreams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.example.idea.StreamsLambdas.transformingStreams.Streams" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaExercises" />
-      <envs />
-    </configuration>
-    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.idea.StreamsLambdas.lambdaExpressions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.example.idea.StreamsLambdas.lambdaExpressions.Streams" />
+      <option name="MAIN_CLASS_NAME" value="com.example.idea.InputOutput.special_topic_1.WebPageReader" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -464,19 +633,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Java Scratch.Sub" />
-      <item index="1" class="java.lang.String" itemvalue="Application.App" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Infinite (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Streams (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.StreamDemo" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Streams" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ColorViewer" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FontViewer2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.WebPageReader" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Exceptions" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ExceptionThrower" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Streams" />
-        <item index="1" class="java.lang.String" itemvalue="Application.App" />
-        <item index="2" class="java.lang.String" itemvalue="Application.StreamDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Streams (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Infinite (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ExceptionThrower" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Exceptions" />
+        <item index="2" class="java.lang.String" itemvalue="Application.WebPageReader" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FontViewer2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ColorViewer" />
       </list>
     </recent_temporary>
   </component>
@@ -602,7 +771,7 @@
       <workItem from="1519502793161" duration="71000" />
       <workItem from="1519510825584" duration="4590000" />
       <workItem from="1519518317951" duration="4115000" />
-      <workItem from="1519606950567" duration="1321000" />
+      <workItem from="1519606950567" duration="16560000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1517257889832</created>
@@ -647,7 +816,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="364063000" />
+    <option name="totallyTimeSpent" value="379302000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -659,11 +828,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="164" y="-4" width="1442" height="912" extended-state="6" />
+    <frame x="-1" y="-11" width="1442" height="912" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276923" sideWeight="0.49697885" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32668328" sideWeight="0.49697885" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32668328" sideWeight="0.4939577" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -671,24 +840,25 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.3179792" sideWeight="0.5183016" order="6" side_tool="true" content_ui="tabs" x="334" y="294" width="697" height="167" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3179792" sideWeight="0.4816984" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25810474" sideWeight="0.46827793" order="10" side_tool="false" content_ui="tabs" x="547" y="103" width="465" height="808" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30798006" sideWeight="0.46827793" order="10" side_tool="false" content_ui="tabs" x="254" y="303" width="728" height="498" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32668328" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23541667" sideWeight="0.49275362" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.4875312" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917705" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32668328" sideWeight="0.48489425" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36782476" sideWeight="0.5072464" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990025" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23541667" sideWeight="0.5124688" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32668328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32668328" sideWeight="0.48489425" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -734,274 +904,25 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/testInputOutput/Items.java</url>
+          <url>file://$PROJECT_DIR$/src/com/example/idea/InputOutput/testInputOutput/Items.java</url>
           <line>24</line>
           <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/terminalOps/TerminalOperations.java</url>
+          <line>12</line>
+          <properties class="com.example.idea.StreamsLambdas.terminalOps.TerminalOperations" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="60" />
+      <option name="time" value="62" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/caseStudy/CountryValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_3/CheckedExceptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_3/HigherOrderFunctions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/section_6/OptionalDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/common_error_3/Horror.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/caseStudy/PopulationDensity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/InputOutput/javaEarlyObjs/special_topic_1/WebPageReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_2/test1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_4/test1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/section_4_1/ThrowingExceptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/worked_example_2/Freebase.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/maps/MapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/Arithmetic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/PersonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/ArithmeticTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/Interfaces/AbstractVsInterface/Example1.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/Interfaces/AbstractVsInterface/abstractVSinterface" />
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/Interfaces/AbstractVsInterface/abstractVSinterface">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/AllTestsSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/Interfaces/AbstractVsInterface/Example1/AbstractTwoDimensional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/Interfaces/AbstractVsInterface/Example1/TwoDimensional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="15" lean-forward="false" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/Interfaces/AbstractVsInterface/Example2/AbstractTwoDimensional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="70" column="17" lean-forward="true" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/Interfaces/AbstractVsInterface/Example2/TwoDimensional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/introduction/war-and-peace.txt" />
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/wordFrequency/WordFrequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/collectionsIntro/CollectionsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/hashCodeExample/Country.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/stacksQueues/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/stacksQueues/ParenChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/stacksQueues/QueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/stacksQueues/StackDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/stacksQueues/StackQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/stacksQueues/WorkOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/sets/SpellCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/iteratingList/ListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/CollectionsFramework/hashCodeExample/HashCodePrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-52">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/words.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1632">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/introduction/StreamDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/producingStreams/StreamsE.java" />
     <entry file="file://$PROJECT_DIR$/countries.txt" />
     <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/collectingResults/Streams.java">
@@ -1018,60 +939,393 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/collectingResults/Streams.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_2/BankAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="675">
+          <caret line="56" column="52" lean-forward="false" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/io/Console.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_1/Infinite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/producingStreams/Streams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/Streams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="37" column="44" lean-forward="false" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+        <state relative-caret-position="153">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/StreamDemo.java">
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/stream/Stream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_2/MethodReferences.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/App.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_3/HigherOrderFunctions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/Optional.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_4/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/special_topic_4/ComparatorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/worked_example/Words.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/practice_exercise/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/practice_exercise/Countries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="65" column="21" lean-forward="true" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/utility/StreamPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/lambdaExpressions/Streams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        <state relative-caret-position="255">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/stream/BaseStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/producingStreams/Streams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/introduction/StreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/Streams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/collectingResults/Streams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/transformingStreams/StreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/primitiveTypeStreams/PrimitiveStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/terminalOps/TerminalOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/optionalType/OptionalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/groupingResults/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/common_error/Horror.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/commonAlgorithms/CommonAlgorithmsRevisited.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/groupingResults/GroupDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="59" lean-forward="false" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/GUI/layoutManagement_1/CalculatorViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/GUI/layoutManagement_1/CalculatorFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="51" column="44" lean-forward="false" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/GUI/swing/ColorFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/GUI/menus/FontViewer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/GUI/menus/FontFrame2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="134" column="10" lean-forward="false" selection-start-line="134" selection-start-column="10" selection-end-line="134" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/GUI/swing/ColorViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/GUI/layoutManagement_2/FilledFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/GUI/layoutManagement_2/FilledFrameViewer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/InputOutput/special_topic_1/WebPageReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/throwingExceptions/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/Exceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/closingResources/ClosingResources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/ExceptionThrower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/ExceptionHandling/throwingExceptions/ThrowingExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/InputOutput/ioIntro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_5_2/CreatingAndDeleting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/section_5_3/UsefulFileOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="30" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>

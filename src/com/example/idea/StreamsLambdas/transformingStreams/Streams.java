@@ -1,10 +1,6 @@
 package com.example.idea.StreamsLambdas.transformingStreams;
-
-import java.util.List;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
-import static com.example.idea.StreamsLambdas.producingStreams.Streams.show;
+import static com.example.idea.StreamsLambdas.utility.StreamPrinter.show;
 
 public class Streams
 {

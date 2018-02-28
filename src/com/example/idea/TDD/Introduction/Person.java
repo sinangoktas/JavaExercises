@@ -1,7 +1,5 @@
 package com.example.idea.TDD.Introduction;
 
-import static org.junit.Assert.assertTrue;
-
 public class Person {
     String name;
     int age;
