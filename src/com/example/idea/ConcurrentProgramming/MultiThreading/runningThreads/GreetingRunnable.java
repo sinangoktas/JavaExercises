@@ -1,3 +1,5 @@
+package com.example.idea.ConcurrentProgramming.MultiThreading.runningThreads;
+
 import java.util.Date;
 
 /**
@@ -27,7 +29,7 @@ public class GreetingRunnable implements Runnable
          {
             Date now = new Date();
             System.out.println(now + " " + greeting);
-            Thread.sleep(DELAY);         
+            Thread.sleep(DELAY);
          }
       }
       catch (InterruptedException exception)

@@ -1,3 +1,5 @@
+package com.example.idea.ConcurrentProgramming.MultiThreading.algorithmAnimation;
+
 import java.awt.Color;
 import java.awt.Graphics;
 import java.util.concurrent.locks.Lock;

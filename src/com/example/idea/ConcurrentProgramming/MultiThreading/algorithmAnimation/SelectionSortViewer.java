@@ -1,3 +1,5 @@
+package com.example.idea.ConcurrentProgramming.MultiThreading.algorithmAnimation;
+
 import java.awt.BorderLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;

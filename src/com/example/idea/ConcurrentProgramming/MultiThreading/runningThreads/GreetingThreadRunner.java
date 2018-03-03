@@ -1,3 +1,5 @@
+package com.example.idea.ConcurrentProgramming.MultiThreading.runningThreads;
+
 /**
    This program runs two greeting threads in parallel.
 */

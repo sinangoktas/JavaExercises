@@ -1,3 +1,5 @@
+package com.example.idea.ConcurrentProgramming.MultiThreading.algorithmAnimation;
+
 import java.awt.Graphics;
 import javax.swing.JComponent;
 

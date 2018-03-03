@@ -1,3 +1,5 @@
+package com.example.idea.ConcurrentProgramming.MultiThreading.avoidingDeadlocks;
+
 /**
    This program runs threads that deposit and withdraw
    money from the same bank account. 

@@ -1,4 +1,4 @@
-package com.example.idea.Advanced_Input_Output.section_4;
+package com.example.idea.Advanced_Input_Output.objectIOStreams;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,6 +1,5 @@
-package com.example.idea.Advanced_Input_Output.section_2;
+package com.example.idea.Advanced_Input_Output.binaryInputOutput;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.InputStream;

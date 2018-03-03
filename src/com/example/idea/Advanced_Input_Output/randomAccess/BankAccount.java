@@ -1,4 +1,4 @@
-package com.example.idea.Advanced_Input_Output.section_3;
+package com.example.idea.Advanced_Input_Output.randomAccess;
 
 /**
    A bank account has a balance that can be changed by 

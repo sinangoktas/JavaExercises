@@ -1,4 +1,4 @@
-package com.example.idea.Advanced_Input_Output.section_5_4;
+package com.example.idea.Advanced_Input_Output.fileAndDirectoryOps;
 
 import java.io.IOException;
 import java.nio.file.Files;

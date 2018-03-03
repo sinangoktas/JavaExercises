@@ -1,4 +1,4 @@
-package com.example.idea.Advanced_Input_Output.section_5_1;
+package com.example.idea.Advanced_Input_Output.fileAndDirectoryOps;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

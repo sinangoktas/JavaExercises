@@ -1,4 +1,4 @@
-package com.example.idea.Advanced_Input_Output.section_5_3;
+package com.example.idea.Advanced_Input_Output.fileAndDirectoryOps;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -15,13 +15,13 @@ public class UsefulFileOperations
    public static void main(String[] args) throws IOException
    {
       // Getting the size of a file
-      Path input = Paths.get("UsefulFileOperations.java");
+      Path input = Paths.get("words.txt");
       long size = Files.size(input);
       System.out.println("Size of " + input + ": " + size + " bytes");
 
       // Reading all lines
       List<String> lines = Files.readAllLines(input);
-      System.out.println("Line 11: " + lines.get(10));
+      System.out.println("Line 112: " + lines.get(112));
 
       // Reading all bytes
       byte[] bytes = Files.readAllBytes(input);

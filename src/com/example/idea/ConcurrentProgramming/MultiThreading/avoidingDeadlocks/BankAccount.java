@@ -1,3 +1,5 @@
+package com.example.idea.ConcurrentProgramming.MultiThreading.avoidingDeadlocks;
+
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
