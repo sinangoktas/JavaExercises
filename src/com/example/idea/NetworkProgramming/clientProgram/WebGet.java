@@ -1,3 +1,5 @@
+package com.example.idea.NetworkProgramming.clientProgram;
+
 import java.io.InputStream;
 import java.io.IOException;
 import java.io.OutputStream;
@@ -27,7 +29,7 @@ public class WebGet
       }
       else
       {
-         System.out.println("Getting / from horstmann.com");
+         System.out.println("Getting / from horstmann.com ");
          host = "horstmann.com";
          resource = "/";
       }

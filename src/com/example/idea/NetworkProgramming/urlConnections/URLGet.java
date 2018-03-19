@@ -1,3 +1,5 @@
+package com.example.idea.NetworkProgramming.urlConnections;
+
 import java.io.InputStream;
 import java.io.IOException;
 import java.io.OutputStream;
@@ -26,7 +28,7 @@ public class URLGet
       }
       else
       {
-         urlString = "http://horstmann.com/";
+         urlString = "http://caplin.com/";
          System.out.println("Using " + urlString);
       }
 
