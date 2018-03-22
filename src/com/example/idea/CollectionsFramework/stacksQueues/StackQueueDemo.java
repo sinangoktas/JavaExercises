@@ -1,9 +1,6 @@
 package com.example.idea.CollectionsFramework.stacksQueues;
 
-import java.util.LinkedList;
-import java.util.PriorityQueue;
-import java.util.Queue;
-import java.util.Stack;
+import java.util.*;
 
 /**
    This program demonstrates stacks, queues, and priority queues.
@@ -27,10 +24,12 @@ public class StackQueueDemo
       while (q.size() > 0) { System.out.println(q.remove()); }
 
       System.out.println("Priority Queue: ");
+
       PriorityQueue<String> pq = new PriorityQueue<>();
       pq.add("Tom");
       pq.add("Diana");
       pq.add("Harry");
+
       while (pq.size() > 0) { System.out.println(pq.remove()); }
    }
 }

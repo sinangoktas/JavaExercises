@@ -28,7 +28,6 @@ public class ObjectClassMethods {
         System.out.println(demo.equals(demoX));
 
         // instanceof returns boolean
-
         System.out.println(demo.name instanceof String);
         System.out.println(demo instanceof ObjectClassMethods);
 

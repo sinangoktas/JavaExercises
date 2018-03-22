@@ -10,7 +10,7 @@ public class CatchingExceptions
    {
       try
       {
-         String filename = "/home/cyn/Documents/test1.txt";
+         String filename = "./testException.txt";
          Scanner in = new Scanner(new File(filename));
          int sum = 0;
          while (in.hasNext())

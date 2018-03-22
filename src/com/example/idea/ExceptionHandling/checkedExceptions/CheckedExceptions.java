@@ -21,6 +21,7 @@ public class CheckedExceptions
    }
 
    public static int readData(String filename) throws FileNotFoundException
+           // this means caller of readData() must handle the exception
    {
       File inFile = new File(filename);
       Scanner in = new Scanner(inFile);

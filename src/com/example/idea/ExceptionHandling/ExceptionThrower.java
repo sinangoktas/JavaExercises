@@ -37,7 +37,7 @@ public class ExceptionThrower {
             Scanner in = new Scanner(System.in);
             String str = in.next();
             result = Integer.parseInt(str);
-            System.out.println("Ahhh " + result + ".");
+            System.out.println("Okkk " + result + ".");
             char thirdDigit = str.charAt(2);
             System.out.println("The third digit is " + thirdDigit + ".");
         }catch (NumberFormatException ex) {

@@ -45,7 +45,7 @@ public class Country
    {
       Country other = (Country) otherObject;
       return name.equals(other.name) 
-         && area == other.area; 
+         && area == other.area;
    }
    
    public String toString()
