@@ -1,8 +1,6 @@
 package com.example.idea.CollectionsFramework.sets;
 
-import java.util.HashSet;
-import java.util.Scanner;
-import java.util.Set;
+import java.util.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 
@@ -15,9 +13,8 @@ public class SpellCheck
       throws FileNotFoundException
    {
       // Read the dictionary and the document
-
-      Set<String> dictionaryWords = readWords("/home/cyn/IdeaProjects/JavaExercises/words.txt");
-      Set<String> documentWords = readWords("/home/cyn/IdeaProjects/JavaExercises/alice30.txt");
+      Set<String> dictionaryWords = readWords("./words.txt");
+      Set<String> documentWords = readWords("./alice30.txt");
 
       // Print all words that are in the document but not the dictionary
       int count = 0;
@@ -40,7 +37,6 @@ public class SpellCheck
    public static Set<String> readWords(String filename)
       throws FileNotFoundException
    {
-
       Set<String> distinctWords = new HashSet<>();
       Scanner in = new Scanner(new File(filename));
       // Use any characters other than a-z or A-Z as delimiters

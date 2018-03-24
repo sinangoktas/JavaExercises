@@ -13,10 +13,9 @@ public class WordFrequency {
 
         Map<String, Integer> frequencies = new TreeMap<>();
         Map<String, Integer> mostFrequent = new TreeMap<>();
-        Scanner in = new Scanner(new File("/home/cyn/IdeaProjects/JavaExercises/alice30.txt"));
+        Scanner in = new Scanner(new File("./alice30.txt"));
         while (in.hasNext()) {
             String word = clean(in.next());
-
             // Get the old frequency count
             Integer count = frequencies.get(word);
 
@@ -55,7 +54,7 @@ public class WordFrequency {
             System.out.printf("%-20s%10d\n", key, frequencies.get(key));
         }
 
-        System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
+        System.out.println(">>>>>>>>>>>>>>>>>>>>");
 
         for (String key : mostFrequent.keySet()) {
             System.out.printf("%-20s%10d\n", key, mostFrequent.get(key));
