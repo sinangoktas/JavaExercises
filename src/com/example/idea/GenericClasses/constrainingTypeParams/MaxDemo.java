@@ -23,10 +23,10 @@ public class MaxDemo
 
       Color[] colors = { Color.RED, Color.GREEN, Color.BLUE, Color.YELLOW };
 
-      Integer[] squares = { 1, 4, 9, 16, 25, 36 };
+      Integer[] squares = { 1, 4, 9, 16, 64, 36 };
 
       System.out.println(max(words)); // Calls max<String>
-      // System.out.println(max(colors)); // Error: Color is not Comparable
+      //System.out.println(max(colors)); // Error: Color is not Comparable
       System.out.println(max(squares)); // Calls max<Integer>
    }
 }

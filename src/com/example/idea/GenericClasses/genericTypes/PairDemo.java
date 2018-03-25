@@ -10,6 +10,8 @@ public class PairDemo {
         System.out.println(result.getSecond());
         System.out.println("Expected: 1");
 
+        System.out.println();
+
         int[] nums = {6, 27, 8, 19, 20};
         Pair<Integer, Integer> res = firstPrime(nums);
         System.out.println(res.getFirst());

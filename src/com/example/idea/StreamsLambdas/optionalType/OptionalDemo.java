@@ -9,7 +9,7 @@ public class OptionalDemo
    {
       Stream<String> words = Stream.of("Zimbabwe", "Namibia",
          "Uganda", "Botswana", "Madagascar", "Mozambique",
-          // "Ivory Coast",
+           //"Ivory Coast",
          "Swaziland", "Togo");
       Optional<String> optResult = words.filter(w -> w.length() > 10).findFirst();
 
