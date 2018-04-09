@@ -16,6 +16,7 @@ public class StreamDemo {
         myList.add(17);
         myList.add(5);
 
+
         System.out.println("Original list: " + myList);
 
         // Obtain a Stream to the array list.
@@ -59,6 +60,38 @@ public class StreamDemo {
         System.out.print("Odd values greater than 5: ");
         oddVals.forEach((n) -> System.out.print(n + " "));
         System.out.println();
+
+
+        // Two ways to obtain the integer product of the elements
+        // in myList by use of reduce().
+
+        Optional<Integer> productObj = myList.stream().reduce((a,b) -> (a * b));
+        if(productObj.isPresent())
+            System.out.println("Product as Optional: " + productObj.get());
+
+        // Note that identity value for multiplication is 1
+        int product = myList.stream().reduce(1, (a, b) -> (a * b));
+        System.out.println("Product as int: " + product);
+
+        int evenProduct = myList.stream().reduce(1, (a, b) -> {
+                                if(b % 2 == 0) return a * b; else return a;
+        });
+        System.out.println("Even product as int: " + evenProduct);
+
+        // Parallel streams
+
+        Optional<Integer> productObj2 = myList.parallelStream().reduce((a, b) -> (a * b));
+        System.out.println("Product as Optional: " + productObj.get());
+
+
+        // Look up combiners and accumulators in parallel streams
+        int parallelProduct = myList.parallelStream()
+                .reduce(1, (a,b) -> a * b, (a,b) -> (a * b));
+        System.out.println("Product as int: " + parallelProduct);
+
+        double productOfSquareRoots = myList.parallelStream().
+                            reduce(1.0, (a, b) -> a * Math.sqrt(b), (a, b) -> a * b);
+        System.out.println("Product of square roots: " + productOfSquareRoots);
 
 
     }
