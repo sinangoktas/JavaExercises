@@ -1,4 +1,4 @@
-package com.example.idea.StreamsLambdas.lambdaExpressions;
+package com.example.idea.StreamsLambdas.lambdaExpressions_Intro;
 
 import java.util.Comparator;
 import java.util.stream.Stream;
