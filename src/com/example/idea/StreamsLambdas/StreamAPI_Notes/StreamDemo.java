@@ -16,6 +16,8 @@ public class StreamDemo {
         myList.add(17);
         myList.add(5);
 
+        // look up stateless, stateful, terminal operations ... in strem
+
 
         System.out.println("Original list: " + myList);
 
@@ -92,6 +94,29 @@ public class StreamDemo {
         double productOfSquareRoots = myList.parallelStream().
                             reduce(1.0, (a, b) -> a * Math.sqrt(b), (a, b) -> a * b);
         System.out.println("Product of square roots: " + productOfSquareRoots);
+
+        // In general, a stream can be switched between parallel and sequential on an as-needed basis.
+        // You can switch a parallel stream to sequential by calling the sequential() method
+
+
+        // look up ordered(), unordered(), forEachOrdered()
+
+
+        // Mapping
+
+        // Map the square root of the elements in myList to a new stream
+
+        Stream<Double> squareRootStream = myList.stream().map(a -> Math.sqrt(a));
+
+        // Find the product to the square roots
+
+        double productOfSqrRoots = squareRootStream.reduce(1.0, (a, b) -> a * b);
+
+        System.out.println("Product of square roots is "
+                + productOfSqrRoots);
+
+
+        
 
 
     }
