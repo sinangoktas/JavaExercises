@@ -5,7 +5,7 @@ import java.util.stream.Stream;
 
 import static com.example.idea.StreamsLambdas.utility.StreamPrinter.show;
 
-public class Streams
+public class Lambda_Intro
 {
    public static void main(String[] args)
    {
