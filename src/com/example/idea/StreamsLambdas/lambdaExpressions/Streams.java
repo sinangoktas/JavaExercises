@@ -1,10 +1,9 @@
-package com.example.idea.StreamsLambdas.lambdaExpressions_Intro;
+package com.example.idea.StreamsLambdas.lambdaExpressions;
 
 import java.util.Comparator;
 import java.util.stream.Stream;
 
 import static com.example.idea.StreamsLambdas.utility.StreamPrinter.show;
-
 
 public class Streams
 {
