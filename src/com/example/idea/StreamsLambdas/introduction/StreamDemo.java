@@ -11,6 +11,7 @@ public class StreamDemo
    public static void main(String[] args) throws IOException
    {
       Scanner in = new Scanner(new File("countries.txt"));
+
       // This file contains one country name per line
       List<String> wordList = new ArrayList<>();
       int numberOfCountries = 0;
