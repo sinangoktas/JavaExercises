@@ -1,4 +1,4 @@
-package com.example.idea.Java_8_MOOC_Tutorial.lesson_1;
+package com.example.idea.Java_8_MOOC;
 
 import java.util.*;
 

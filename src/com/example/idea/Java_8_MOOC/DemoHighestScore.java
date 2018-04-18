@@ -1,4 +1,4 @@
-package com.example.idea.Java_8_MOOC_Tutorial.lesson_1;
+package com.example.idea.Java_8_MOOC;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,7 +12,6 @@ public class DemoHighestScore {
         Student s2 = new Student(2011, 60);
         Student s3 = new Student(2011, 75);
         Student s4 = new Student(2010, 60);
-
 
         List<Student> students = new ArrayList<>();
         students.add(s1);
@@ -28,7 +27,6 @@ public class DemoHighestScore {
                     highestScore = s.getScore();
                 }
             }
-
         }
 
         System.out.println("Highest score in 2011 is " + highestScore);
