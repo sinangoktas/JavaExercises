@@ -67,8 +67,6 @@ public class PersonTest {
         p3.setAge(-3);
     }
 
-
-
     // this is for expensive setup, such as when you need to connect to a database
     @BeforeClass
     public static void setUpClass() {
@@ -82,7 +80,4 @@ public class PersonTest {
         // close the connection
     }
 
-
-
 }
-

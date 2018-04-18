@@ -30,6 +30,5 @@ public class DemoHighestScore {
         }
 
         System.out.println("Highest score in 2011 is " + highestScore);
-
     }
 }
