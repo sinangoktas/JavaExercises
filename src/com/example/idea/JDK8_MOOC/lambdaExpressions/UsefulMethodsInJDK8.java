@@ -1,8 +1,7 @@
-package com.example.idea.Java_8_MOOC_Tutorial.lambdaExpressions;
+package com.example.idea.JDK8_MOOC.lambdaExpressions;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.logging.Logger;
 
 public class UsefulMethodsInJDK8 {
 

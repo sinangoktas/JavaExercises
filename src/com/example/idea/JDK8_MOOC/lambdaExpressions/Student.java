@@ -1,4 +1,4 @@
-package com.example.idea.Java_8_MOOC_Tutorial.lambdaExpressions;
+package com.example.idea.JDK8_MOOC.lambdaExpressions;
 
 public class Student {
 
