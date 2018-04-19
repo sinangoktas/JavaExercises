@@ -8,7 +8,6 @@ public class Arithmetic {
     }
 
    int multiply(int a, int b) {
-
         myNumber = a * b;
         return myNumber;
     }
@@ -18,7 +17,6 @@ public class Arithmetic {
         if(a > 0) {
             return true;
         }
-
         return false;
     }
 }
