@@ -1,4 +1,4 @@
-package com.example.idea.Java_8_MOOC_Tutorial.lesson_1;
+package com.example.idea.Java_8_MOOC_Tutorial.lambdaExpressions;
 
 import java.util.*;
 
@@ -23,6 +23,7 @@ public class DemoHighestScore_2 {
                 .max(Double::compareTo);
         if(highestScore.isPresent())
             System.out.println("Highest score in 2011 is " + highestScore.get());
+
 
     }
 

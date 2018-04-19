@@ -5,7 +5,6 @@ package com.example.idea.StreamsLambdas.lambdaExpressions.demo_10;
 public class MyStringOps {
 
     // A static method that reverses a string.
-
     public static String strReverse(String str) {
         String result = "";
         int i;
