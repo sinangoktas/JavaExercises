@@ -53,7 +53,9 @@ public class WorkedExample {
         List<String> list = new ArrayList<>(Arrays.asList(
                 "alpha", "bravo", "charlie", "delta", "echo", "foxtrot"));
 
-        /* YOUR CODE HERE */
+        //list.removeIf(s -> s.length() % 2 != 0);
+        list.removeIf(s -> (s.length() & 1) == 1);
+        list.forEach(System.out::println);
     }
 
     /**
@@ -65,7 +67,9 @@ public class WorkedExample {
         List<String> list = new ArrayList<>(Arrays.asList(
                 "alpha", "bravo", "charlie", "delta", "echo", "foxtrot"));
 
-        /* YOUR CODE HERE */
+        //list.replaceAll(s -> s.toUpperCase());
+        list.replaceAll(String::toUpperCase);
+        list.forEach(System.out::println);
     }
 
     /**
@@ -80,7 +84,10 @@ public class WorkedExample {
         map.put("b", 2);
         map.put("a", 1);
 
-        /* YOUR CODE HERE */
+        StringBuilder sb = new StringBuilder();
+        map.forEach((k, v) -> sb.append(String.format("%s%s", k, v)));
+        String result = sb.toString();
+        System.out.println("Exercise 4 result = " + result);
     }
 
     /**
@@ -90,8 +97,9 @@ public class WorkedExample {
      */
     private void exercise5() {
         List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+        new Thread(() -> list.forEach(System.out::println)).start();
 
-        /* YOUR CODE HERE */
+
     }
 
     /**
@@ -101,7 +109,7 @@ public class WorkedExample {
      */
     public static void main(String[] args) {
         WorkedExample lesson = new WorkedExample();
-        //lesson.runExercises();
-        lesson.exercise1();
+        lesson.runExercises();
+
     }
 }
