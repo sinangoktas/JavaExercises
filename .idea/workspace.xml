@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48e2b064-e474-4091-b663-10a4a4f8002a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/SonnetI.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/theStreamAPI/DemoHighestScore.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/theStreamAPI/Student.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/theStreamAPI/WorkedExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/LongestLine.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,11 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WorkedExample.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LongestLine.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/LongestLine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="63" column="47" lean-forward="true" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorkedExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/theStreamAPI/WorkedExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+            <state relative-caret-position="-1581">
+              <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,7 +42,7 @@
       <file leaf-file-name="WorkedExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/lambdaExpressions/WorkedExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
+            <state relative-caret-position="221">
               <caret line="97" column="30" lean-forward="true" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
               <folding />
             </state>
@@ -67,6 +76,7 @@
         <option value="$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/theStreamAPI/DemoHighestScore.java" />
         <option value="$PROJECT_DIR$/SonnetI.txt" />
         <option value="$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/theStreamAPI/WorkedExample.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/LongestLine.java" />
       </list>
     </option>
   </component>
@@ -150,17 +160,7 @@
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="idea" type="462c0819:PsiDirectoryNode" />
               <item name="JDK8_MOOC" type="462c0819:PsiDirectoryNode" />
-              <item name="lambdaExpressions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="idea" type="462c0819:PsiDirectoryNode" />
-              <item name="JDK8_MOOC" type="462c0819:PsiDirectoryNode" />
-              <item name="theStreamAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedJDK8Concepts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WorkedExample (1)">
+  <component name="RunManager" selected="Application.LongestLine">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -209,6 +209,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.example.idea.JDK8_MOOC.theStreamAPI.DemoHighestScore" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaExercises" />
+      <envs />
+    </configuration>
+    <configuration name="LongestLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.idea.JDK8_MOOC.advancedJDK8Concepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.example.idea.JDK8_MOOC.advancedJDK8Concepts.LongestLine" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -332,16 +351,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.WorkedExample" />
       <item index="1" class="java.lang.String" itemvalue="Application.DemoHighestScore" />
       <item index="2" class="java.lang.String" itemvalue="Application.WorkedExample (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LongestLine" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.WorkedExample (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DemoHighestScore" />
-        <item index="2" class="java.lang.String" itemvalue="Application.WorkedExample" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.LongestLine" />
+        <item index="1" class="java.lang.String" itemvalue="Application.WorkedExample (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DemoHighestScore" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WorkedExample" />
       </list>
     </recent_temporary>
   </component>
@@ -365,12 +386,12 @@
       <updated>1524160110923</updated>
       <workItem from="1524160112141" duration="5642000" />
       <workItem from="1524432752477" duration="2183000" />
-      <workItem from="1524434976800" duration="7288000" />
+      <workItem from="1524434976800" duration="11438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15113000" />
+    <option name="totallyTimeSpent" value="19263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="691" width="1366" height="772" extended-state="6" />
@@ -454,13 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="1255" column="21" lean-forward="true" selection-start-line="1255" selection-start-column="21" selection-end-line="1255" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/lambdaExpressions/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -485,14 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/lambdaExpressions/DemoHighestScore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/theStreamAPI/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -509,9 +515,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10302">
+          <caret line="616" column="10" lean-forward="true" selection-start-line="616" selection-start-column="10" selection-end-line="616" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/lambdaExpressions/DemoHighestScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/lambdaExpressions/WorkedExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
+        <state relative-caret-position="221">
           <caret line="97" column="30" lean-forward="true" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
           <folding />
         </state>
@@ -519,8 +541,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/theStreamAPI/WorkedExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+        <state relative-caret-position="-1581">
+          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/stream/Stream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="79" column="16" lean-forward="false" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/LongestLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="63" column="47" lean-forward="true" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
