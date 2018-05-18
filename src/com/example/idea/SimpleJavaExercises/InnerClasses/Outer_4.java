@@ -3,7 +3,6 @@ package com.example.idea.SimpleJavaExercises.InnerClasses;
 public class Outer_4 {
 
     // Outer with static fields and methods
-
     private static String x = "outer";
 
     // Method-local inner class
