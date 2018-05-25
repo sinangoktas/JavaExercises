@@ -1,4 +1,4 @@
-package com.example.idea.SimpleJavaExercises.InnerClasses;
+package com.example.idea.SimpleJavaBits.InnerClasses;
 
 public class Outer_2 {
 

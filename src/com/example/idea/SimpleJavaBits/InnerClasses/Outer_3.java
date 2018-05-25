@@ -1,12 +1,11 @@
-package com.example.idea.SimpleJavaExercises.InnerClasses;
+package com.example.idea.SimpleJavaBits.InnerClasses;
 
-public class Outer_4 {
+public class Outer_3 {
 
-    // Outer with static fields and methods
-    private static String x = "outer";
+    private String x = "outer";
 
     // Method-local inner class
-    public static void doStuff() {
+    public void doStuff() {
 
         class Inner {
             public void seeOuter() {
@@ -19,6 +18,9 @@ public class Outer_4 {
     }
 
     public static void main(String[] args) {
-        Outer_4.doStuff();
+        Outer_3 o = new Outer_3();
+        o.doStuff();
     }
+
+
 }

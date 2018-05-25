@@ -2,227 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48e2b064-e474-4091-b663-10a4a4f8002a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Sinan/src/ParkingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaExercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaExercises.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/collectionsIntro/CollectionsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/collectionsIntro/CollectionsDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/hashCodeExample/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/hashCodeExample/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/hashCodeExample/HashCodePrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/hashCodeExample/HashCodePrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/iteratingList/ListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/iteratingList/ListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/maps/MapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/maps/MapDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/sets/SpellCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/sets/SpellCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/ParenChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/ParenChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/PriorityQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/PriorityQueueDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/QueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/QueueDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/StackDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/StackDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/StackQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/StackQueueDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/WorkOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/stacksQueues/WorkOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/wordFrequency/WordFrequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/CollectionsFramework/wordFrequency/WordFrequency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/InterruptingThreads/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/InterruptingThreads/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/InterruptingThreads/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/InterruptingThreads/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/concurrencyIntro/intro/Animation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/concurrencyIntro/intro/Animation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/concurrencyIntro/intro/Animator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/concurrencyIntro/intro/Animator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/concurrencyIntro/intro/Concurrency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/concurrencyIntro/intro/Concurrency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/concurrencyIntro/intro/SyncronisedConc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/concurrencyIntro/intro/SyncronisedConc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo10_LowLevelSynchronization/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo10_LowLevelSynchronization/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo10_LowLevelSynchronization/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo10_LowLevelSynchronization/App$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo10_LowLevelSynchronization/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo10_LowLevelSynchronization/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo10_LowLevelSynchronization/ProcessorLowLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo10_LowLevelSynchronization/ProcessorLowLevel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo11_ReEntrantLocks/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo11_ReEntrantLocks/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo11_ReEntrantLocks/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo11_ReEntrantLocks/App$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo11_ReEntrantLocks/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo11_ReEntrantLocks/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo11_ReEntrantLocks/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo11_ReEntrantLocks/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo12_Deadlock/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo12_Deadlock/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo12_Deadlock/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo12_Deadlock/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo12_Deadlock/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo12_Deadlock/App$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo12_Deadlock/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo12_Deadlock/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo12_Deadlock/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo12_Deadlock/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo13_Semaphores/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo13_Semaphores/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo13_Semaphores/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo13_Semaphores/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo13_Semaphores/Connection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo13_Semaphores/Connection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo14_CallableFuture/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo14_CallableFuture/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo14_CallableFuture/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo14_CallableFuture/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo1_StartingThreads/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo1_StartingThreads/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo1_StartingThreads/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo1_StartingThreads/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo2_StartingThreads/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo2_StartingThreads/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo2_StartingThreads/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo2_StartingThreads/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo3_StartingThreads/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo3_StartingThreads/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo3_StartingThreads/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo3_StartingThreads/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App2$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App3$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App3$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/App3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo4_ThreadSynchronization/Processor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo5_MultiLocks/Worker$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo5_MultiLocks/Worker$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo5_MultiLocks/Worker$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo5_MultiLocks/Worker$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo5_MultiLocks/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo5_MultiLocks/Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo6_ThreadPools/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo6_ThreadPools/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo6_ThreadPools/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo6_ThreadPools/Processor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo7_CountdownLatches/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo7_CountdownLatches/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo7_CountdownLatches/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo7_CountdownLatches/Processor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo8_ProducerConsumer/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo8_ProducerConsumer/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo8_ProducerConsumer/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo8_ProducerConsumer/App$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo8_ProducerConsumer/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo8_ProducerConsumer/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo9_WaitNotify/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo9_WaitNotify/App$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo9_WaitNotify/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo9_WaitNotify/App$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo9_WaitNotify/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo9_WaitNotify/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo9_WaitNotify/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ConcurrentProgramming/demo9_WaitNotify/Processor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/ExceptionThrower.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/ExceptionThrower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/Exceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/Exceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/catchingExceptions/CatchingExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/catchingExceptions/CatchingExceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/checkedExceptions/CheckedExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/checkedExceptions/CheckedExceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/closingResources/ClosingResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/closingResources/ClosingResources.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/designExceptions/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/designExceptions/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/designExceptions/CustomExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/designExceptions/CustomExceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/designExceptions/InsufficientFundsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/designExceptions/InsufficientFundsException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/throwingExceptions/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/throwingExceptions/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/throwingExceptions/ThrowingExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ExceptionHandling/throwingExceptions/ThrowingExceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/choices/FontFrame$ChoiceListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/choices/FontFrame$ChoiceListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/choices/FontFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/choices/FontFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/choices/FontViewer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/choices/FontViewer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/layoutManagement_1/CalculatorFrame$DigitButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/layoutManagement_1/CalculatorFrame$DigitButtonListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/layoutManagement_1/CalculatorFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/layoutManagement_1/CalculatorFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/layoutManagement_1/CalculatorViewer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/layoutManagement_1/CalculatorViewer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/layoutManagement_2/FilledFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/layoutManagement_2/FilledFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/layoutManagement_2/FilledFrameViewer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/layoutManagement_2/FilledFrameViewer2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/menus/FontFrame2$1FaceItemListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/menus/FontFrame2$1FaceItemListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/menus/FontFrame2$1SizeItemListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/menus/FontFrame2$1SizeItemListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/menus/FontFrame2$1StyleItemListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/menus/FontFrame2$1StyleItemListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/menus/FontFrame2$ExitItemListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/menus/FontFrame2$ExitItemListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/menus/FontFrame2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/menus/FontFrame2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/menus/FontViewer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/menus/FontViewer2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/swing/ColorFrame$ColorListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/swing/ColorFrame$ColorListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/swing/ColorFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/swing/ColorFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/swing/ColorViewer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/swing/ColorViewer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/textInput_1/InvestmentFrame2$AddInterestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/textInput_1/InvestmentFrame2$AddInterestListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/textInput_1/InvestmentFrame2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/textInput_1/InvestmentFrame2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/textInput_1/InvestmentViewer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/textInput_1/InvestmentViewer2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/textInput_2/InvestmentFrame3$AddInterestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/textInput_2/InvestmentFrame3$AddInterestListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/textInput_2/InvestmentFrame3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/textInput_2/InvestmentFrame3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/textInput_2/InvestmentViewer3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/textInput_2/InvestmentViewer3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/worked_example/CalculatorFrame$DigitButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/worked_example/CalculatorFrame$DigitButtonListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/worked_example/CalculatorFrame$MathOpListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/worked_example/CalculatorFrame$MathOpListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/worked_example/CalculatorFrame$OperatorButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/worked_example/CalculatorFrame$OperatorButtonListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/worked_example/CalculatorFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/worked_example/CalculatorFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/worked_example/CalculatorViewer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GUI/worked_example/CalculatorViewer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/constrainingTypeParams/MaxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/constrainingTypeParams/MaxDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/genericMethods/PrintDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/genericMethods/PrintDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/genericTypes/Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/genericTypes/Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/genericTypes/PairDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/genericTypes/PairDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/typeErasure/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/typeErasure/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/typeErasure/StackDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/typeErasure/StackDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/wildCardTypes/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/wildCardTypes/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/wildCardTypes/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/wildCardTypes/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/wildCardTypes/WildcardDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/GenericClasses/wildCardTypes/WildcardDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/caseStudy/CountryValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/caseStudy/CountryValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/caseStudy/PopulationDensity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/caseStudy/PopulationDensity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/handlingInputErrors/BadDataException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/handlingInputErrors/BadDataException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/handlingInputErrors/DataAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/handlingInputErrors/DataAnalyzer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/handlingInputErrors/DataSetReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/handlingInputErrors/DataSetReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/ioIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/ioIntro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/readingWriting/Total.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/readingWriting/Total.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/special_topic_1/WebPageReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/special_topic_1/WebPageReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/special_topic_2/FileChooserDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/special_topic_2/FileChooserDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/testInputOutput/Items.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/InputOutput/testInputOutput/Items.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/AbstractVsInterface/Example1/AbstractTwoDimensional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/AbstractVsInterface/Example1/AbstractTwoDimensional.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/AbstractVsInterface/Example1/TwoDimensional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/AbstractVsInterface/Example1/TwoDimensional.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/AbstractVsInterface/Example2/AbstractTwoDimensional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/AbstractVsInterface/Example2/AbstractTwoDimensional.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/AbstractVsInterface/Example2/TwoDimensional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/AbstractVsInterface/Example2/TwoDimensional.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/Intro/DefaultMethodDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/Intro/DefaultMethodDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/Intro/DefaultMethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/Intro/DefaultMethodDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/Intro/MyClassImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/Intro/MyClassImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/Intro/MyIF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/Intro/MyIF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/Intro/StaticMethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/Intro/StaticMethodDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/comparable/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/comparable/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/comparable/ComparableTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/comparable/ComparableTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/innerClasses/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/innerClasses/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/innerClasses/Measurer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/innerClasses/Measurer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/innerClasses/MeasurerTester$1AreaMeasurer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/innerClasses/MeasurerTester$1AreaMeasurer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/innerClasses/MeasurerTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/innerClasses/MeasurerTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/inroduction/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/inroduction/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/inroduction/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/inroduction/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/inroduction/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/inroduction/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/inroduction/Measurable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/inroduction/Measurable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/inroduction/MeasurableTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/inroduction/MeasurableTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/interfaceTypes/ConversionTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/interfaceTypes/ConversionTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/interfaceTypes/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/interfaceTypes/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/interfaceTypes/Measurable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/interfaceTypes/Measurable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_1/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_1/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_1/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_1/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_1/Measurable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_1/Measurable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_1/MeasurableTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_1/MeasurableTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_2/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_2/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_2/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_2/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_2/Measurable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_2/Measurable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_2/MeasurableTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_2/MeasurableTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_1/ConflictingDefaultMethodsTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_1/ConflictingDefaultMethodsTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_1/Named.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_1/Named.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_1/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_1/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_1/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_1/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_2/ConflictingDefaultMethodsTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_2/ConflictingDefaultMethodsTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_2/Named.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_2/Named.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_2/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_2/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_2/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_3_2/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_4/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_4/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_4/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_4/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_4/Measurer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_4/Measurer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_4/MeasurerTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_4/MeasurerTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_5/ButtonViewer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/java8_note_5/ButtonViewer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/practice/AreaMeasurer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/practice/AreaMeasurer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/practice/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/practice/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/practice/Measurer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/practice/Measurer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/practice/MeasurerTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Interfaces/practice/MeasurerTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/NetworkProgramming/EchoServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/NetworkProgramming/EchoServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/NetworkProgramming/EchoServerLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/NetworkProgramming/EchoServerLauncher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/NetworkProgramming/EchoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/NetworkProgramming/EchoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ObjectClass/ObjectClassMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/ObjectClass/ObjectClassMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Recursion/DemoRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/Recursion/DemoRecursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/binarySearch/ArrayUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/binarySearch/ArrayUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/binarySearch/BinarySearchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/binarySearch/BinarySearchDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/binarySearch/BinarySearcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/binarySearch/BinarySearcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/comparable/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/comparable/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/comparable/JavaLibraryDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/comparable/JavaLibraryDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/comparator/ComparatorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/comparator/ComparatorDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/comparator/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/comparator/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/linearSearch/ArrayUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/linearSearch/ArrayUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/linearSearch/LinearSearchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/linearSearch/LinearSearchDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/linearSearch/LinearSearcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/SortingSearching/linearSearch/LinearSearcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/collectingResults/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/collectingResults/Streams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/commonAlgorithms/CommonAlgorithmsRevisited.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/commonAlgorithms/CommonAlgorithmsRevisited.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/common_error/Horror.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/common_error/Horror.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/groupingResults/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/groupingResults/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/groupingResults/GroupDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/groupingResults/GroupDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/groupingResults/GroupDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/groupingResults/GroupDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/introduction/StreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/introduction/StreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/optionalType/OptionalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/optionalType/OptionalDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/practice_exercise/Countries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/practice_exercise/Countries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/practice_exercise/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/practice_exercise/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/primitiveTypeStreams/PrimitiveStreams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/primitiveTypeStreams/PrimitiveStreams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/producingStreams/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/producingStreams/Streams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/terminalOps/TerminalOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/terminalOps/TerminalOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/transformingStreams/StreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/transformingStreams/StreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/transformingStreams/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/transformingStreams/Streams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/utility/StreamPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/utility/StreamPrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/worked_example/Words.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/StreamsLambdas/worked_example/Words.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/AllTestsSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/AllTestsSuite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/Arithmetic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/Arithmetic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/ArithmeticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/ArithmeticTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/Counter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/CounterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/CounterTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/MyProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/MyProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/MyProgramTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/MyProgramTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/PersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExercises/com/example/idea/TDD/Introduction/PersonTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/idea/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/idea/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/idea/SimpleJavaExercises/InnerClasses/Outer_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/idea/SimpleJavaExercises/InnerClasses/Outer_4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -234,8 +17,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/idea/App.java">
+      <file leaf-file-name="ExecSQL.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/RelationalDatabases/dbProgrammingInJava/ExecSQL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleDataSource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/RelationalDatabases/dbProgrammingInJava/SimpleDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmptyArrayException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/lambdaExpressions/demo_8/EmptyArrayException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectClassMethods.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/ObjectClass/ObjectClassMethods.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -243,68 +53,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GroupDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/groupingResults/GroupDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-            </state>
-          </provider>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="ParkingService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sinan/src/ParkingService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountryValue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/idea/InputOutput/caseStudy/CountryValue.java">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParkingLotTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sinan/src/ParkingLotTest.java">
+      <file leaf-file-name="ioIntro.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/idea/InputOutput/ioIntro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CaesarCipher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/binaryInputOutput/CaesarCipher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CaesarEncryptor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/binaryInputOutput/CaesarEncryptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GroupDemo2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/groupingResults/GroupDemo2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="170">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -348,12 +115,13 @@
         <option value="$PROJECT_DIR$/src/com/example/idea/SimpleJavaExercises/InnerClasses/Outer_2.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/SimpleJavaExercises/InnerClasses/Outer_1.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/SimpleJavaExercises/InnerClasses/Outer_4.java" />
-        <option value="$PROJECT_DIR$/src/com/example/idea/App.java" />
         <option value="$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/streamAPI_Notes/StreamDemo_Parallel.java" />
         <option value="$PROJECT_DIR$/Sinan/src/ParkingLot.java" />
         <option value="$PROJECT_DIR$/Sinan/src/ParkingInfo.java" />
         <option value="$PROJECT_DIR$/Sinan/src/ParkingLotTest.java" />
         <option value="$PROJECT_DIR$/Sinan/src/ParkingService.java" />
+        <option value="$PROJECT_DIR$/src/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/com/example/idea/App.java" />
       </list>
     </option>
   </component>
@@ -367,9 +135,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="25" />
-    <option name="width" value="1366" />
-    <option name="height" value="743" />
+    <option name="y" value="578" />
+    <option name="width" value="1440" />
+    <option name="height" value="322" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -377,8 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -389,17 +156,6 @@
             <path>
               <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Sinan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Sinan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -422,76 +178,20 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="idea" type="462c0819:PsiDirectoryNode" />
-              <item name="Advanced_Input_Output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="idea" type="462c0819:PsiDirectoryNode" />
-              <item name="Advanced_Input_Output" type="462c0819:PsiDirectoryNode" />
-              <item name="binaryInputOutput" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="idea" type="462c0819:PsiDirectoryNode" />
-              <item name="InputOutput" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="idea" type="462c0819:PsiDirectoryNode" />
-              <item name="InputOutput" type="462c0819:PsiDirectoryNode" />
-              <item name="caseStudy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="idea" type="462c0819:PsiDirectoryNode" />
-              <item name="StreamsLambdas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="idea" type="462c0819:PsiDirectoryNode" />
-              <item name="StreamsLambdas" type="462c0819:PsiDirectoryNode" />
-              <item name="groupingResults" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/selenium-java-DVLA" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -514,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GroupDemo">
+  <component name="RunManager" selected="Application.FizzBuzz">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -531,16 +231,10 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="CaesarEncryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.idea.Advanced_Input_Output.binaryInputOutput.CaesarEncryptor" />
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
       <module name="JavaExercises" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.idea.Advanced_Input_Output.binaryInputOutput.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="GroupDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.idea.StreamsLambdas.groupingResults.GroupDemo" />
@@ -564,25 +258,38 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="ObjectClassMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.idea.ObjectClass.ObjectClassMethods" />
+      <module name="JavaExercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.idea.ObjectClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ParkingLotTest.testReport" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <module name="Sinan" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ParkingLotTest" />
-      <option name="METHOD_NAME" value="testReport" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -599,6 +306,71 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Sinan" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="Sinan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="Sinan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Sinan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="Sinan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -622,20 +394,119 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Sinan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+    </configuration>
+    <configuration default="true" type="ccruntests" factoryName="Run Study Tests">
+      <module name="Sinan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="studyTest" value="" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Sinan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="Sinan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="Sinan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Sinan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="Sinan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <list>
-      <item itemvalue="JUnit.ParkingLotTest.testReport" />
-      <item itemvalue="Application.CaesarEncryptor" />
       <item itemvalue="Application.GroupDemo2" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.GroupDemo" />
+      <item itemvalue="Application.FizzBuzz" />
+      <item itemvalue="Application.ObjectClassMethods" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GroupDemo" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.ObjectClassMethods" />
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.GroupDemo" />
         <item itemvalue="Application.GroupDemo2" />
-        <item itemvalue="Application.CaesarEncryptor" />
-        <item itemvalue="JUnit.ParkingLotTest.testReport" />
       </list>
     </recent_temporary>
   </component>
@@ -688,6 +559,14 @@
       <workItem from="1526606515817" duration="161000" />
       <workItem from="1526607577569" duration="162000" />
       <workItem from="1526642150101" duration="67000" />
+      <workItem from="1526725662730" duration="138000" />
+      <workItem from="1526730039569" duration="167000" />
+      <workItem from="1527072686275" duration="2029000" />
+      <workItem from="1527082335447" duration="1670000" />
+      <workItem from="1527116239619" duration="739000" />
+      <workItem from="1527195286054" duration="4415000" />
+      <workItem from="1527260633163" duration="5237000" />
+      <workItem from="1527281783883" duration="837000" />
     </task>
     <servers />
   </component>
@@ -724,41 +603,41 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52400000" />
+    <option name="totallyTimeSpent" value="67632000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <frame x="0" y="25" width="1366" height="743" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50292826" side_tool="true" weight="0.32707354" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32736155" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27458397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31089258" />
       <window_info anchor="bottom" id="Docker" order="9" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="SciView" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24962178" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49707174" weight="0.3265306" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49707174" weight="0.3257329" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -773,140 +652,11 @@
       <option name="time" value="2" />
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/workedExample/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/workedExample/RandomWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/workedExample/Levenshtein.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/workedExample/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/workedExample/RandomWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/workedExample/Levenshtein.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/workedExample/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/workedExample/RandomWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/workedExample/Levenshtein.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/workedExample/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/workedExample/RandomWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/advancedJDK8Concepts/workedExample/Levenshtein.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/theStreamAPI/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/lambdaExpressions/DemoHighestScore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/theStreamAPI/DemoHighestScore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="26" column="54" lean-forward="true" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/StringCalculator/StringCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/lambdaExpressions/UsefulMethodsInJDK8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/idea/JDK8_MOOC/lambdaExpressions/DemoHighestScore_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -1076,23 +826,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sinan/src/ParkingService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sinan/src/ParkingLotTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Sinan/src/ParkingService.java" />
+    <entry file="file://$PROJECT_DIR$/Sinan/src/ParkingLotTest.java" />
     <entry file="file://$PROJECT_DIR$/src/com/example/idea/Advanced_Input_Output/binaryInputOutput/CaesarCipher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1114,17 +849,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/App.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/groupingResults/GroupDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/groupingResults/GroupDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/MyProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/StringCalculator/StringCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/StringCalculator/StringCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/AllTestsSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/MyProgramTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/CounterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/Arithmetic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/TDD/Introduction/ArithmeticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/RelationalDatabases/dbProgrammingInJava/ExecSQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/RelationalDatabases/dbProgrammingInJava/SimpleDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/StreamsLambdas/lambdaExpressions/demo_8/EmptyArrayException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/ObjectClass/ObjectClassMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FizzBuzz.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/InputOutput/ioIntro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/idea/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
