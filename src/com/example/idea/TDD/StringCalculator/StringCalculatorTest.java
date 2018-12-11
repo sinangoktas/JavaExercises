@@ -69,7 +69,4 @@ public class StringCalculatorTest {
         Assert.assertEquals(1009, StringCalculator.ignoreNumbersGreaterThan1000("3,1000,1001,6,1234", ","));
     }
 
-
-
-
 }
