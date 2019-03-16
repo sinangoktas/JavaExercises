@@ -12,7 +12,7 @@ public class FontViewer2
       JFrame frame = new FontFrame2();
       frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
       frame.setTitle("FontViewer");
-      frame.setVisible(true);      
+      frame.setVisible(true);
    }
 }
 
