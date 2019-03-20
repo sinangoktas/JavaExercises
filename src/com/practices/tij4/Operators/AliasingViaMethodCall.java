@@ -5,7 +5,7 @@ public class AliasingViaMethodCall {
     public static void main(String[] args) {
 
         Aliasing a = new Aliasing();
-        a.f = 2;
+        a.f = 22f;
         System.out.println(a.f);
 
         setF(a);
@@ -14,6 +14,6 @@ public class AliasingViaMethodCall {
     }
 
     static void setF(Aliasing b) {
-        b.f = 1;
+        b.f = 11f;
     }
 }
