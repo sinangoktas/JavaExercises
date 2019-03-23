@@ -11,7 +11,6 @@ public class FindPrimes {
         int total = 0;
 
         /*
-        print prime numbers up to 1000
         try i % j == 0 while j < i
         if so; i is not prime, go back to outer and increment i
         if not; go back and increment j
