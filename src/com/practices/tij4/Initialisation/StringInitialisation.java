@@ -1,4 +1,4 @@
-package com.practices.tij4.ControllingExecution;
+package com.practices.tij4.Initialisation;
 
 /*
 Create a class with a String field that is initialized at the point of
