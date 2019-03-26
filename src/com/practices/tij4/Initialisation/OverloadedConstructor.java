@@ -7,7 +7,7 @@ public class OverloadedConstructor {
     }
 
     public OverloadedConstructor(String s) {
-        System.out.println("This is the overloaded construtor" + s);
+        System.out.println("This is the overloaded constructor" + s);
     }
 
     public static void main(String[] args) {
