@@ -9,36 +9,35 @@ public class OverloadedDog {
     }
 
 
-    public void bark(int age) {
-        if (age < 2) {
-            System.out.println(this.name + " says: Mueeewww");
+    public void bark(int age, boolean canBark) {
+
+        if(canBark) {
+            System.out.println(name + "/" + age + ": Barkbark" );
         } else {
-            System.out.println(this.name + " says: Hoaaawww");
+            System.out.println(name + "/" + age + ": Zzzzzzz" );
 
         }
-
-
     }
 
 
-    public void bark(boolean canBark) {
-        if (canBark == true) {
+    public void bark(boolean canBark, int age) {
 
-            System.out.println(this.name + " says: Barkbark");
-
+        if(canBark) {
+            System.out.println(name + "/" + age + ": Barkbark" );
         } else {
-            System.out.println(this.name + " says: Zzzzzz");
-        }
+            System.out.println(name + "/" + age + ": Zzzzzzzz" );
 
+        }
     }
 
     public static void main(String[] args) {
 
         OverloadedDog dog = new OverloadedDog("Bobby");
-        dog.bark(1);
-        dog.bark(true);
-        dog.bark(3);
-        dog.bark(false);
+        dog.bark(true, 5);
+        dog.bark(false, 2);
+        dog.bark(1, false);
+        dog.bark(4, true);
+
 
 
     }
