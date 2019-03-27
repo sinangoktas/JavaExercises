@@ -14,7 +14,7 @@ public class FileChooserDemo
    public static void main(String[] args) throws IOException
    {
       JFileChooser chooser = new JFileChooser();
-      Scanner in = null;
+      Scanner in;
       if (chooser.showOpenDialog(null) == JFileChooser.APPROVE_OPTION)
       {
          File selectedFile = chooser.getSelectedFile();
