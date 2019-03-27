@@ -14,7 +14,7 @@ public class OverloadedDog {
         if(canBark) {
             System.out.println(name + "/" + age + ": Barkbark" );
         } else {
-            System.out.println(name + "/" + age + ": Zzzzzzz" );
+            System.out.println(name + "/" + age + ": Zzz" );
 
         }
     }
@@ -23,7 +23,7 @@ public class OverloadedDog {
     public void bark(boolean canBark, int age) {
 
         if(canBark) {
-            System.out.println(name + "/" + age + ": Barkbark" );
+            System.out.println(name + "/" + age + ": Baaaarghhhh" );
         } else {
             System.out.println(name + "/" + age + ": Zzzzzzzz" );
 
