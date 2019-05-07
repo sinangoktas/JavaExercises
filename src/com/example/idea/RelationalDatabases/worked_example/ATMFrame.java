@@ -46,7 +46,7 @@ public class ATMFrame extends JFrame
       bButton = new JButton("  B  ");
       bButton.addActionListener(new BButtonListener());
 
-      cButton = new JButton("  C  ");
+      cButton = new JButton("  ClassC  ");
       cButton.addActionListener(new CButtonListener());
       
       // Add components
@@ -83,7 +83,7 @@ public class ATMFrame extends JFrame
       else if (state == ATM.ACCOUNT)
       {
          display.setText("Select Account\n" 
-               + "A = Checking\nB = Savings\nC = Exit");
+               + "A = Checking\nB = Savings\nClassC = Exit");
       }
       else if (state == ATM.TRANSACT)
       {
@@ -92,7 +92,7 @@ public class ATMFrame extends JFrame
             display.setText("Balance = " 
                   + theATM.getBalance() 
                   + "\nEnter amount and select transaction\n"
-                  + "A = Withdraw\nB = Deposit\nC = Cancel");
+                  + "A = Withdraw\nB = Deposit\nClassC = Cancel");
          }
          catch (SQLException exception)
          {

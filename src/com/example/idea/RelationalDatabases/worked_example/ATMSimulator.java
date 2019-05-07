@@ -45,7 +45,7 @@ public class ATMSimulator
          }
          else if (state == ATM.ACCOUNT)
          {
-            System.out.print("A=Checking, B=Savings, C=Quit: ");
+            System.out.print("A=Checking, B=Savings, ClassC=Quit: ");
             String command = in.next();
             if (command.equalsIgnoreCase("A"))
             {
@@ -55,7 +55,7 @@ public class ATMSimulator
             {
                theATM.selectAccount(ATM.SAVINGS);
             }
-            else if (command.equalsIgnoreCase("C"))
+            else if (command.equalsIgnoreCase("ClassC"))
             {
                theATM.reset();
             }
@@ -67,7 +67,7 @@ public class ATMSimulator
          else if (state == ATM.TRANSACT)
          {
             System.out.println("Balance=" + theATM.getBalance());
-            System.out.print("A=Deposit, B=Withdrawal, C=Cancel: ");
+            System.out.print("A=Deposit, B=Withdrawal, ClassC=Cancel: ");
             String command = in.next();
             if (command.equalsIgnoreCase("A"))
             {
@@ -83,7 +83,7 @@ public class ATMSimulator
                theATM.withdraw(amount);
                theATM.back();
             }
-            else if (command.equalsIgnoreCase("C"))
+            else if (command.equalsIgnoreCase("ClassC"))
             {
                theATM.back();
             }
