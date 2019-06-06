@@ -1,13 +1,12 @@
 package com.practices.tij4.ReusingClasses;
 
-public class Detergent extends Cleanser {
+public class Detergent extends Cleanser { // Inheritance >> Is-A relation
 
     @Override
     public void scrub() {
         append(" Detergent.scrub()");
         super.scrub(); // call super class version
     }
-
     public void foam() {
         append(" foam()");
     }
@@ -35,11 +34,9 @@ class Cleanser {
     public void dilute() {
         append(" dilute()");
     }
-
     public void apply() {
         append(" apply()");
     }
-
     public void scrub() {
         append(" scrub()");
     }
@@ -57,21 +54,31 @@ class Cleanser {
         System.out.println(cleanser);
     }
 
-
  }
 
 
  class DetergentDelegation {
 
-     // Delegation
-     // Exposing all the member object methods (this is delegation rather than inheritance)
 
-    Cleanser cleanser = new Cleanser();
+    Cleanser cleanser = new Cleanser(); // Composition >>> Has-A relation
 
     public static void main(String[] args) {
-        Cleanser.main(args);
+
+        Cleanser.main(args); // Composition
+
+        // Delegation (between composition and inheritance)
+        // Exposing all the member object methods (this is delegation rather than inheritance)
+
+        DetergentDelegation dd =  new DetergentDelegation(); // Delegation
+        dd.dilute();
+        dd.apply();
+        dd.scrub();
+        System.out.println(dd);
+
+
     }
 
+    // Delegated methods
     public void append(String a) {
         cleanser.append(a);
     }

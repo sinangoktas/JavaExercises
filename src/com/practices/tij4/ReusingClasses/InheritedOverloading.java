@@ -15,8 +15,6 @@ public class InheritedOverloading extends ParentOverload {
 
     }
 
-
-
 }
 
 

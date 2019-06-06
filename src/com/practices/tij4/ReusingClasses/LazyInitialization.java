@@ -12,7 +12,7 @@ public class LazyInitialization {
     public void instantiateSimple() {
         if(simple == null) {
             simple = new Simple();
-            System.out.printf("Lazy initialised");
+            System.out.printf("Simple object lazy initialised");
         }
     }
 }
