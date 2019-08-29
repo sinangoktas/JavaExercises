@@ -20,7 +20,6 @@ public class CommonAlgorithmsRevisited
       System.out.println(Arrays.toString(squares));
 
       // Sum, Average, Max, Min
-
       double[] values = { 32, 54, 67.5, 29, 35, 80, 115, 44.5, 100, 65 };
       double total = DoubleStream.of(values).sum();
       double average = DoubleStream.of(values).average().orElse(0);
