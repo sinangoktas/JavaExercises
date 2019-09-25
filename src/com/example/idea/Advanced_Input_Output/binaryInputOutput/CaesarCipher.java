@@ -55,4 +55,35 @@ public class CaesarCipher
    {
       return (b + key) % 256;
    }
+
+
+   public void decryptStream(InputStream in, OutputStream out)
+           throws IOException
+   {
+      boolean done = false;
+      while (!done)
+      {
+         int next = in.read();
+         if (next == -1)
+         {
+            done = true;
+         }
+         else
+         {
+            int encrypted = decrypt(next);
+            out.write(encrypted);
+         }
+      }
+   }
+
+   /**
+    Encrypts a value.
+    @param b the value to encrypt (between 0 and 255)
+    @return the encrypted value
+    */
+   public int decrypt(int b)
+   {
+      return (b - key) % 256;
+   }
+
 }

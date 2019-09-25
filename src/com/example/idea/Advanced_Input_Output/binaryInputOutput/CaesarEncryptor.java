@@ -22,8 +22,7 @@ public class CaesarEncryptor
       System.out.print("Encryption key: ");
       int key = in.nextInt();
                            
-      try (InputStream inStream = new FileInputStream(inFile);
-         OutputStream outStream = new FileOutputStream(outFile))
+      try (InputStream inStream = new FileInputStream(inFile); OutputStream outStream = new FileOutputStream(outFile))
       {  
          CaesarCipher cipher = new CaesarCipher(key);
          cipher.encryptStream(inStream, outStream);
@@ -32,6 +31,7 @@ public class CaesarEncryptor
       {  
          System.out.println("Error processing file: " + exception);
       }
+
    }
 }
 
