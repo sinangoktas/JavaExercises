@@ -1,4 +1,4 @@
-package com.example.idea.Interfaces.inroduction;
+package com.example.idea.Interfaces.introduction;
 
 /**
    This program demonstrates the measurable BankAccount and Country classes.

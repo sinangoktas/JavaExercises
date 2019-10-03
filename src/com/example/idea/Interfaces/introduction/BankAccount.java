@@ -1,4 +1,4 @@
-package com.example.idea.Interfaces.inroduction;
+package com.example.idea.Interfaces.introduction;
 
 /**
    A bank account has a balance that can be changed by 

@@ -1,4 +1,4 @@
-package com.example.idea.Interfaces.inroduction;
+package com.example.idea.Interfaces.introduction;
 
 /**
    A country with a name and area.
