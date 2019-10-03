@@ -2,9 +2,7 @@ package com.example.idea.SortingSearching.binarySearch;
 
 import org.junit.Assert;
 import org.junit.BeforeClass;
-import org.junit.jupiter.api.Test;
-
-import java.util.Arrays;
+import org.junit.Test;
 
 class ArrayUtilTest {
 
