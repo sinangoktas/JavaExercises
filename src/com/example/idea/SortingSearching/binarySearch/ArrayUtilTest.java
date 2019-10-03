@@ -1,8 +1,9 @@
 package com.example.idea.SortingSearching.binarySearch;
 
-import org.junit.Assert;
-import org.junit.BeforeClass;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+import org.testng.Assert;
+import org.testng.annotations.BeforeClass;
+
 
 class ArrayUtilTest {
 

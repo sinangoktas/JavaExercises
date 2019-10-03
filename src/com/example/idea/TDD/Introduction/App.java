@@ -1,8 +1,7 @@
 package com.example.idea.TDD.Introduction;
 
-import org.junit.Ignore;
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class App {
 
@@ -14,7 +13,6 @@ public class App {
         }
     }
 
-    @Ignore
     @Test
     public void max() {
         assertEquals(7, max(7, 3));
