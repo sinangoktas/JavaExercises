@@ -14,15 +14,15 @@ public class ExceptionThrower {
         System.out.print("Write a number: ");
         int n = getNumber();
         String isOdd = (n % 2 != 0) ? "odd" : "even";
-        if(n != 0) {
+        if (n != 0) {
             System.out.println("You entered " + n + ", it is " + isOdd + ".");
-        } else{
+        } else {
             System.out.println("did you really want to enter 0? Y/N");
             Scanner in = new Scanner(System.in);
             String str = in.nextLine();
-            if(str.equalsIgnoreCase("Y")) {
+            if (str.equalsIgnoreCase("Y")) {
                 System.out.println("You entered " + n + ", it is " + isOdd + ".");
-            }else if(str.equalsIgnoreCase("N")){
+            } else if (str.equalsIgnoreCase("N")) {
                 System.out.print("Try again: ");
                 n = getNumber();
                 isOdd = (n % 2 != 0) ? "odd" : "even";
@@ -40,11 +40,11 @@ public class ExceptionThrower {
             System.out.println("Okkk " + result + ".");
             char thirdDigit = str.charAt(2);
             System.out.println("The third digit is " + thirdDigit + ".");
-        }catch (NumberFormatException ex) {
+        } catch (NumberFormatException ex) {
             System.out.println("What you entered is not an integer number!");
             ex.printStackTrace();
             System.exit(0); // stop the JVM
-        }catch (IndexOutOfBoundsException ex) {
+        } catch (IndexOutOfBoundsException ex) {
             System.out.println("Your integer have less than three digits but....");
         }
         return result;

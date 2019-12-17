@@ -4,8 +4,6 @@ import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
-
 class ArrayUtilTest {
 
     ArrayUtil arrayUtil;
@@ -18,15 +16,14 @@ class ArrayUtilTest {
 
     @Test
     void randomIntArrayTest() {
-        int[] arr = arrayUtil.randomIntArray(5, 5);
-        Assert.assertEquals(arr.length, 5);
+        intArr = arrayUtil.randomIntArray(5, 5);
+        Assert.assertEquals(intArr.length, 5);
 
     }
 
     @Test
     void swapTest() {
         intArr = new int[] {1,2,3,4,5};
-        arrayUtil = new ArrayUtil();
         arrayUtil.swap(intArr, 0, 4);
         Assert.assertEquals(intArr[0], 5);
         Assert.assertEquals(intArr[4], 1);
