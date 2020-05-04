@@ -1,8 +1,9 @@
 package com.example.idea.SortingSearching.binarySearch;
 
+import com.main.SortingSearching.binarySearch.BinarySearcher;
 import org.junit.Assert;
 import org.junit.BeforeClass;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 class BinarySearcherTest {
     BinarySearcher binarySearcher;

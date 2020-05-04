@@ -1,7 +1,7 @@
 package com.test.GenericClasses.constrainingTypeParams;
 
 import com.main.GenericClasses.constrainingTypeParams.MaxDemo;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.awt.*;
 
