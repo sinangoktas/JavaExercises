@@ -1,0 +1,33 @@
+package com.main.OracleExamples.Generics;
+
+import java.util.Arrays;
+import java.util.Collection;
+import java.util.List;
+
+public class TestGenerics {
+
+    public static void main(String[] args) {
+        Collection<Integer> ci = Arrays.asList(1, 2, 3, 4);
+        int count = Algorithm.countIf(ci, new OddPredicate());
+        System.out.println("Number of odd integers = " + count);
+
+        System.out.println(">>>>>>>>>>>>.");
+
+        List<Integer> li = Arrays.asList(3, 4, 6, 8, 11, 15, 28, 32);
+        Collection<Integer> c = Arrays.asList(7, 18, 19, 25);
+        UnaryPredicate<Integer> p = new RelativelyPrimePredicate(c);
+
+        int i = Algorithm.findFirst(li, 0, li.size(), p);
+
+        if (i != -1) {
+            System.out.print(li.get(i) + " is relatively prime to ");
+            for (Integer k : c)
+                System.out.print(k + " ");
+            System.out.println();
+        }
+
+    }
+
+
+}
+

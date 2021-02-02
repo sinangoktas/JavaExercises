@@ -3,10 +3,7 @@ package com;
 public class App {
 
     public static void main(String[] args) {
-
-        System.out.println("xxx");
-
-
-      }
+        System.out.println("Hello World");
     }
+}
 
