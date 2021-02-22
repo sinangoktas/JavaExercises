@@ -7,7 +7,8 @@ import java.util.List;
 public class TestGenerics {
 
     public static void main(String[] args) {
-        Collection<Integer> ci = Arrays.asList(1, 2, 3, 4);
+
+        Collection<Integer> ci = Arrays.asList(1, 2, 3, 4, 5);
         int count = Algorithm.countIf(ci, new OddPredicate());
         System.out.println("Number of odd integers = " + count);
 
