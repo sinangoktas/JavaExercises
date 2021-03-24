@@ -1,7 +1,7 @@
 package com.test.SortingSearching.binarySearch;
 
 import com.main.SortingSearching.binarySearch.BinarySearcher;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.util.Arrays;
 
