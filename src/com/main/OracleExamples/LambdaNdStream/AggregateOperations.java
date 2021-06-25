@@ -1,8 +1,7 @@
 package com.main.OracleExamples.LambdaNdStream;
 
-public class AgregateOperations {
+public class AggregateOperations {
 
     // https://docs.oracle.com/javase/tutorial/collections/streams/index.html
-
 
 }

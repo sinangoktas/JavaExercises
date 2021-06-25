@@ -2,7 +2,8 @@ package com;
 
 public class App {
 
-    public static void main(String s[]) {
+    public static void main(String[] args) {
+
 
     }
 }
