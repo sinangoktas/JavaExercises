@@ -44,7 +44,5 @@ public class App {
 
         System.out.println("All tasks completed by each threads. ");
 
-
-
     }
 }

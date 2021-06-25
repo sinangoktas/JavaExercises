@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import java.util.stream.Collectors;
 
 public class StreamDemo
 {
@@ -36,5 +37,6 @@ public class StreamDemo
          .count();
 
       System.out.println("Long words: " + count);
+
    }
 }
