@@ -23,9 +23,8 @@ public class FindDups {
         System.out.println(dups.size() + " duplicate words: " + dups);
         System.out.println(s.size() + " distinct words: " + s);
 
-        //  modify it to use a SortedSet instead of a Set.
+        //  Modify it to use a SortedSet instead of a Set.
         //  Specify a Comparator so that case is ignored when sorting and identifying set elements
-
 
     }
 }
