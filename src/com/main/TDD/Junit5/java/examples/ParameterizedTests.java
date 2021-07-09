@@ -1,4 +1,4 @@
-package com.main.TDD.junit5tests.java.junit5tests;
+package com.main.TDD.Junit5.java.examples;
 
 import org.junit.jupiter.api.TestInstance;
 import org.junit.jupiter.params.ParameterizedTest;
@@ -81,7 +81,7 @@ public class ParameterizedTests {
     }
 
     @ParameterizedTest
-    @MethodSource(value = "sourceStringAsSteam")
+    @MethodSource(value = "sourceStringAsStream")
     void methodSource_StringStream(String param1) {
         System.out.println("param1 = " + param1);
     }
@@ -92,18 +92,12 @@ public class ParameterizedTests {
         System.out.println("param1 = " + param1 + ", param2 = " + param2);
     }
 
-    @ParameterizedTest
-    @MethodSource(value = "junit5tests.ParamProvider#sourceStream_StringDouble")
-    void methodSource_StringDoubleStream(String param1, double param2) {
-        System.out.println("param1 = " + param1 + ", param2 = " + param2);
-    }
-
     List<String> sourceString()  {
         //processing done here
         return Arrays.asList("tomato", "carrot", "cabbage");
     }
 
-    Stream<String> sourceStringAsSteam() {
+    Stream<String> sourceStringAsStream() {
         //processing
         return Stream.of("beetroot", "apple", "pear");
     }

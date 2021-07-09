@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/com/main/TDD/junit5tests/junit5-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/main/TDD/junit5tests/junit5-tutorial" vcs="" />
   </component>
 </project>

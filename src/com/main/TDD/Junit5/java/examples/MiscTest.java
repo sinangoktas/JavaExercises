@@ -1,10 +1,10 @@
-package com.main.TDD.junit5tests.java.junit5tests;
+package com.main.TDD.Junit5.java.examples;
 
 import org.junit.jupiter.api.*;
 
 public class MiscTest {
 
-    @Test
+    @Test()
 //    @Timeout(5)
     void timeout() throws InterruptedException {
         System.out.println("This is the test with the timeout");
@@ -19,6 +19,7 @@ public class MiscTest {
         System.out.println("This is the annotated method");
     }
 
+    @Test()
     @MyAnnotation
     void annotatedMethod2() throws InterruptedException {
         System.out.println("This is the custom annotated method");

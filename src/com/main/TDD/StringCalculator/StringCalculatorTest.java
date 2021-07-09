@@ -3,6 +3,8 @@ package com.main.TDD.StringCalculator;
 import org.junit.Assert;
 import org.junit.Test;
 
+import java.text.NumberFormat;
+
 public class StringCalculatorTest {
 
     // The method can take 0, 1 or 2 numbers separated by comma (,).
@@ -17,7 +19,7 @@ public class StringCalculatorTest {
         Assert.assertTrue(true);
     }
 
-    @Test(expected = RuntimeException.class)
+    @Test(expected = NumberFormatException.class)
     public final void whenNonNumberIsUsedThenExceptionIsThrown() {
         StringCalculator.provideTwoOrLessNumber("1,X");
     }

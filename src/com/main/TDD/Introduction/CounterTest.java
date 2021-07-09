@@ -14,6 +14,7 @@ public class CounterTest {
         counter1 = new Counter();
     }
 
+
     @Test
     public void testIncrement() {
         assertTrue(counter1.increment() == 1);

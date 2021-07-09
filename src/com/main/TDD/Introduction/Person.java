@@ -31,7 +31,7 @@ public class Person {
     // a stub that returns void can be written with an empty body
     // a stub that returns a number can return 0, -1 or 666 whatever number is most likely to be wrong
     // a stub that returns boolean value should usually return false
-    // a stub that returns an object of any kind(incl. String or an array) should return null
+    // a stub that returns an object of any kind(incl. String or an Array) should return null
 
 
 }

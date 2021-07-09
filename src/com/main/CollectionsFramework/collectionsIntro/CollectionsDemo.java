@@ -40,4 +40,5 @@ public class CollectionsDemo
          System.out.println(s);
       }
    }
+
 }

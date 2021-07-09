@@ -21,5 +21,7 @@ public class ArithmeticTest {
         assertTrue(myArithmetic.isPositive(5));
         assertFalse(myArithmetic.isPositive(-5));
         assertFalse(myArithmetic.isPositive(0));
+        assertFalse(myArithmetic.isPositive(-101));
+        assertTrue(myArithmetic.isPositive(1001));
     }
 }

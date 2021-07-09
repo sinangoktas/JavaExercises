@@ -1,6 +1,6 @@
-package com.main.TDD.junit5tests.java.junit5tests;
+package com.main.TDD.Junit5.java.examples;
 
-import com.main.TDD.junit5tests.java.listeners.Listener;
+import com.main.TDD.Junit5.java.listeners.Listener;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 
@@ -74,7 +74,7 @@ public class AssertionsTest {
         List<String> theList = Arrays.asList("firstString", "secondString",
                 "thirdString");
 
-        assertThat(theList, hasItem("thirdStrings"));
+        assertThat(theList, hasItem("thirdString"));
     }
 
 //    @Test

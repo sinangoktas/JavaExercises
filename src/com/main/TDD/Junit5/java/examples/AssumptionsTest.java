@@ -1,6 +1,5 @@
-package com.main.TDD.junit5tests.java.junit5tests;
+package com.main.TDD.Junit5.java.examples;
 
-import org.junit.jupiter.api.Assumptions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.ValueSource;
@@ -27,7 +26,8 @@ public class AssumptionsTest {
     @ParameterizedTest
     @CsvSource(value = {"steve,32,true", "captain,21,false", "bucky,5,true"})
     void csvSource_StringIntBoolean(String param1, int param2, boolean param3) {
-        assumingThat(param2 > 20, () -> System.out.println("This code ran"));
+        assumingThat(param2 > 20,
+                () -> System.out.println("This code ran"));
         System.out.println("param1 = " + param1 + ", param2 = " + param2 + ", param3 = " + param3);
     }
 }
