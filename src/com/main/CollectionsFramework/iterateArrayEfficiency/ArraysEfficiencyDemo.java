@@ -2,6 +2,7 @@ package com.main.CollectionsFramework.iterateArrayEfficiency;
 
 import java.util.Arrays;
 import java.util.HashSet;
+import java.util.Random;
 import java.util.Set;
 
 public class ArraysEfficiencyDemo {
@@ -27,7 +28,13 @@ public class ArraysEfficiencyDemo {
 
     public static void main(String[] args) {
 
-        String[] arr = new String[] {"CD", "BC", "EF", "DE", "AB"};
+//        String[] arr = new String[] {"CD", "BC", "EF", "DE", "AB"};
+
+        String[] arr = new String[1000];
+        Random s = new Random();
+        for(int i=0; i< 1000; i++){
+            arr[i] = String.valueOf(s.nextInt());
+        }
 
         //use list
         long startTime = System.nanoTime();
@@ -53,12 +60,6 @@ public class ArraysEfficiencyDemo {
         endTime = System.nanoTime();
         duration = endTime - startTime;
         System.out.println("useLoop: " + duration / 1000000);
-
-//        Random s = new Random();
-//        for(int i=0; i< 1000; i++){
-//            arr[i] = String.valueOf(s.nextInt());
-//        }
-        
 
     }
 }
