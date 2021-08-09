@@ -1,8 +1,6 @@
 package com.main.CollectionsFramework.collectionsIntro;
 
-import java.util.Collection;
-import java.util.ArrayList;
-import java.util.TreeSet;
+import java.util.*;
 
 /**
    This program demonstrates classes from the Java collections framework.
@@ -15,6 +13,8 @@ public class CollectionsDemo
       workWith(new ArrayList<>());
       System.out.println("Working with a TreeSet");
       workWith(new TreeSet<>());
+
+
    }
 
    /**
@@ -39,6 +39,7 @@ public class CollectionsDemo
       {
          System.out.println(s);
       }
+
    }
 
 }
