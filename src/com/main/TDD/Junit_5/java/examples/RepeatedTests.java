@@ -1,4 +1,4 @@
-package com.main.TDD.Junit5.java.examples;
+package com.main.TDD.Junit_5.java.examples;
 
 import org.junit.jupiter.api.Assumptions;
 import org.junit.jupiter.api.DisplayName;

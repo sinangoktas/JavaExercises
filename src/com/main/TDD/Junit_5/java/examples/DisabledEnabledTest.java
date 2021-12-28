@@ -1,6 +1,6 @@
-package com.main.TDD.Junit5.java.examples;
+package com.main.TDD.Junit_5.java.examples;
 
-import com.main.TDD.Junit5.java.listeners.Listener;
+import com.main.TDD.Junit_5.java.listeners.Listener;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.condition.*;

@@ -1,4 +1,4 @@
-package com.main.TDD.Junit5.java.examples;
+package com.main.TDD.Junit_5.java.examples;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;

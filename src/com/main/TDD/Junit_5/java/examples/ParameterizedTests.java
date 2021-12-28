@@ -1,4 +1,4 @@
-package com.main.TDD.Junit5.java.examples;
+package com.main.TDD.Junit_5.java.examples;
 
 import org.junit.jupiter.api.TestInstance;
 import org.junit.jupiter.params.ParameterizedTest;
