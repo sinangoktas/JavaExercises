@@ -13,6 +13,8 @@ public class WordFrequency {
 
         Map<String, Integer> frequencies = new TreeMap<>();
         Map<String, Integer> mostFrequent = new TreeMap<>();
+        Map<String, Integer> leastFrequent = new TreeMap<>();
+
         Scanner in = new Scanner(new File("./alice30.txt"));
         while (in.hasNext()) {
             String word = clean(in.next());
@@ -29,17 +31,32 @@ public class WordFrequency {
             frequencies.put(word, count);
 
 
-            // Find the most frequent 10 words
+            // Find the most and least frequent 10 words
             mostFrequent.put(word, count);
+            leastFrequent.put(word, count);
 
             if(mostFrequent.size() > 10) {
+                // find the least occuring element
                 for (String key : mostFrequent.keySet()) {
                     if(mostFrequent.get(key) < count) {
                         count = mostFrequent.get(key);
                         word = key;
                     }
                 }
+                // and then remove it
                 mostFrequent.remove(word, count);
+            }
+
+            if(leastFrequent.size() > 10) {
+                // find the most occuring element
+                for (String key : leastFrequent.keySet()) {
+                    if(leastFrequent.get(key) > count) {
+                        count = leastFrequent.get(key);
+                        word = key;
+                    }
+                }
+                // and then remove it
+                leastFrequent.remove(word, count);
             }
 
             /*
@@ -58,6 +75,12 @@ public class WordFrequency {
 
         for (String key : mostFrequent.keySet()) {
             System.out.printf("%-20s%10d\n", key, mostFrequent.get(key));
+        }
+
+        System.out.println(">>>>>>>>>>>>>>>>>>>>");
+
+        for (String key : leastFrequent.keySet()) {
+            System.out.printf("%-20s%10d\n", key, leastFrequent.get(key));
         }
     }
 

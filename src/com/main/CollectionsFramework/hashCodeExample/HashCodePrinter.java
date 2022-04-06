@@ -30,5 +30,7 @@ public class HashCodePrinter
       // Print the set. Note that the set has two elements.
 
       System.out.println(countries.size());
+
+      System.out.println(country1.equals(country3));
    }
 }
