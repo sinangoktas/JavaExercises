@@ -12,7 +12,7 @@ public class WebPageReader
 {
    public static void main(String[] args) throws IOException
    {
-      String address = "https://bbc.co.uk";
+      String address = "https://theguardian.com/uk";
       URL pageLocation = new URL(address);
       Scanner in = new Scanner(pageLocation.openStream());
       while (in.hasNext())

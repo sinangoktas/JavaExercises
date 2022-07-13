@@ -6,13 +6,12 @@ public class ioIntro {
 
     public static void main(String[] args) {
 
-        String infileName = "/home/cyn/Documents/inputIO.txt";
+        String infileName = "/home/sinangoktas/Documents/inputIO.txt";
         File infile = new File(infileName);
-        String outfileName = "/home/cyn/Documents/outputIO.txt";
+        String outfileName = "/home/sinangoktas/Documents/outputIO.txt";
         File outfile = new File(outfileName);
 
-        try(BufferedReader in = new BufferedReader(new FileReader(infile));
-                PrintWriter out = new PrintWriter(outfile)){
+        try (BufferedReader in = new BufferedReader(new FileReader(infile)); PrintWriter out = new PrintWriter(outfile)) {
             String line;
             while ((line = in.readLine()) != null) {
                 out.write(line);
@@ -20,15 +19,15 @@ public class ioIntro {
             }
 
         } catch (FileNotFoundException ex) {
-                    ex.printStackTrace();
-        }catch(IOException ex) {
+            ex.printStackTrace();
+        } catch (IOException ex) {
             ex.printStackTrace();
         }
 
     }
 
 
-    private static void closeReader(Reader reader) {
+    private static void closeReader(BufferedReader reader) {
 
         try {
             if (reader != null) {

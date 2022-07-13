@@ -3,7 +3,7 @@ package com.main.CollectionsFramework.collectionsIntro;
 import java.util.*;
 
 /**
-   This program demonstrates classes from the Java collections framework.
+   This program demonstrates classes from the Java collections' framework.
 */
 public class CollectionsDemo
 {
