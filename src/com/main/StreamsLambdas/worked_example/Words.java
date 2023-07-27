@@ -12,7 +12,7 @@ public class Words
 {      
    public static void main(String[] args) throws IOException
    {
-      try (Stream<String> lines = Files.lines(Paths.get("../words.txt")))
+      try (Stream<String> lines = Files.lines(Paths.get("data_resources/words.txt")))
       {
          long count = lines
             .filter(w -> !w.endsWith("'s"))
@@ -21,7 +21,7 @@ public class Words
          System.out.println("Number of words with all five vowels: " + count);
       }
 
-      try (Stream<String> lines = Files.lines(Paths.get("../words.txt")))
+      try (Stream<String> lines = Files.lines(Paths.get("data_resources/words.txt")))
       {
          List<String> examples = lines 
             .filter(w -> !w.endsWith("'s"))
@@ -31,7 +31,7 @@ public class Words
          System.out.println("20 words with all five vowels: " + examples);
       }
 
-      try (Stream<String> lines = Files.lines(Paths.get("../words.txt")))
+      try (Stream<String> lines = Files.lines(Paths.get("data_resources/words.txt")))
       {
          String shortest = lines
             .filter(w -> !w.endsWith("'s"))
@@ -41,7 +41,7 @@ public class Words
          System.out.println("Shortest: " + shortest);
       }
       
-      try (Stream<String> lines = Files.lines(Paths.get("../words.txt")))
+      try (Stream<String> lines = Files.lines(Paths.get("data_resources/words.txt")))
       {
          List<String> allShortest = lines
             .filter(w -> !w.endsWith("'s"))
@@ -51,7 +51,7 @@ public class Words
          System.out.println("All of that length: " + allShortest);
       }
 
-      try (Stream<String> lines = Files.lines(Paths.get("../words.txt")))
+      try (Stream<String> lines = Files.lines(Paths.get("data_resources/words.txt")))
       {
          String longest = lines
             .filter(w -> !w.endsWith("'s"))

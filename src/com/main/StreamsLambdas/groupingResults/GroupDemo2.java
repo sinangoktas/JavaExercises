@@ -11,7 +11,7 @@ public class GroupDemo2
 {
    public static void main(String[] args) throws IOException
    {
-      try (Stream<String> lines = Files.lines(Paths.get("../population.txt")))
+      try (Stream<String> lines = Files.lines(Paths.get("data_resources/population.txt")))
       {
          Stream<Country> countries
             = lines.map(line -> Country.parse(line));

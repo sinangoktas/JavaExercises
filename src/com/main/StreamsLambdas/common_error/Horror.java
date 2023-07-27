@@ -14,7 +14,7 @@ public class Horror
 {
    public static void main(String[] args) throws IOException
    {
-      Scanner in = new Scanner(new File("../words.txt"));
+      Scanner in = new Scanner(new File("data_resources/words.txt"));
       List<String> wordList = new ArrayList<>();
       while (in.hasNext()) { wordList.add(in.next()); }
 
