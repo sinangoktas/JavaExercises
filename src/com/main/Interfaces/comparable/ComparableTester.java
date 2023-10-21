@@ -9,7 +9,7 @@ public class ComparableTester
       BankAccount[] accounts = new BankAccount[3];
       accounts[0] = new BankAccount(10000);
       accounts[1] = new BankAccount(0);
-      accounts[2] = new BankAccount(2000);      
+      accounts[2] = new BankAccount(2000);
       Arrays.sort(accounts);
       for (int i = 0; i < accounts.length; i++)
       {
