@@ -1,6 +1,7 @@
 package com.main.JDK8_MOOC.lambdaExpressions;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 public class UsefulMethodsInJDK8 {
@@ -36,7 +37,7 @@ public class UsefulMethodsInJDK8 {
         // sort(Comparator c)
         // replaces Collections.sort(List l, Comparator c)
         myList.add("PEAR");
-        myList.sort((x, y) -> x.length() - y.length());
+        myList.sort(Comparator.comparingInt(String::length));
         System.out.println(myList);
 
 

@@ -24,7 +24,7 @@ public class JavaLibraryDemo
       Country country2 = new Country("Thailand", 514000);
       Country country3 = new Country("Uruguay", 176220);
 
-      ArrayList<Country> countries = new ArrayList<Country>();
+      ArrayList<Country> countries = new ArrayList<>();
       countries.add(country1);
       countries.add(country2);
       countries.add(country3);
