@@ -8,7 +8,7 @@ public class ComparatorDemo
    public static void main(String[] args)
    {
       String[] words = { "Mary", "had", "a", "little", "lamb" };
-      Arrays.sort(words, (v, w) -> v.length() - w.length());
+      Arrays.sort(words, Comparator.comparingInt(String::length));
       System.out.println(Arrays.toString(words));
 
       words = new String[] {"Its", "fleece", "was", "white", "as", "snow"};
