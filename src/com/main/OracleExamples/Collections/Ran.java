@@ -17,7 +17,7 @@ public class Ran {
         Collections.shuffle(argList);
 
         // Print out the elements using JDK 8 Streams
-        argList.stream()
+        argList
                 .forEach(e->System.out.format("%s ",e));
 
         // Print out the elements using for-each

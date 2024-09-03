@@ -1,21 +1,20 @@
-package com.example.idea.SortingSearching.binarySearch;
-
+package com.main.SortingSearching.linearSearch;
 import com.main.SortingSearching.binarySearch.BinarySearcher;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-class BinarySearcherTest {
-    BinarySearcher binarySearcher;
+public class BinarySearcherTest {
+    static BinarySearcher binarySearcher;
     int[] a;
 
     @BeforeClass
-    void setUp() {
+    public static void setUp() {
         binarySearcher = new BinarySearcher();
     }
 
     @Test
-    void searchTest() {
+    public void searchTest() {
         a = new int[] {9, 12, 19, 23, 33, 44, 54, 65, 89, 98};
         int result1 = binarySearcher.search(a, 0, a.length - 1, 98);
         int result2 = binarySearcher.search(a, 0, a.length - 1, 23);

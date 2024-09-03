@@ -16,8 +16,7 @@ public class StreamPrinter {
     public static <T> void show(String caption, Stream<T> stream)
     {
         final int SHOW_LIMIT = 10;
-        List<T> values = stream.limit(SHOW_LIMIT + 1).collect(
-                Collectors.toList());
+        List<T> values = stream.limit(SHOW_LIMIT + 1).toList();
         System.out.print(caption + ": ");
         for (int i = 0; i < Math.min(SHOW_LIMIT, values.size()); i++)
         {

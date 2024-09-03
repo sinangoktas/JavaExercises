@@ -1,5 +1,6 @@
 package com.main.DesignPatterns.Creational.SingletonPattern;
 
+import java.io.Serial;
 import java.io.Serializable;
 
 public class SingletonSerializable implements Serializable {
@@ -17,6 +18,7 @@ public class SingletonSerializable implements Serializable {
     }
 
     // enforce singleton
+    @Serial
     protected Object readResolve() {
          return getSingletonSerializable();
     }
